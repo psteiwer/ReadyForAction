@@ -1,0 +1,38 @@
+    zn "%SYS"
+    Do ##class(Security.Users).UnExpireUserPasswords("*")
+
+    zn "USER"
+    do EnableDeepSee^%SYS.cspServer("/csp/user/")
+
+    ; install dependent projects
+    zpm "install analyzethis"
+    zpm "install pivottojupyter"
+    set ^PivotToJupyter("jupyter-hostname") = "localhost"
+    set ^PivotToJupyter("jupyter-port") = 61888
+    zpm "install pivottopowerbi"
+    zpm "install customcubeactionmanager"
+    zpm "install thirdpartychartportlets"
+
+    ; install files for demo
+    do $system.OBJ.LoadDir("/opt/irisapp/src/SampleTables","ck",,1)
+    do $system.OBJ.LoadDir("/opt/irisapp/src/READYforACTION","ck",,1)
+    
+    ; load data for demo
+    hang 2
+    Do ##class(SampleTables.READY2025).LoadData("/opt/irisapp/src/CSVs/READY2025.csv")
+    Do ##class(SampleTables.MCOFlightDelays).LoadData("/opt/irisapp/src/CSVs/MCOFlightDelays.csv")
+    //Do ##class(SampleTables.PatientConditions).LoadData("/opt/irisapp/src/CSVs/patient_dataset_v2.csv")
+    //Do ##class(SampleTables.CommuteTimes).LoadData("/opt/irisapp/src/CSVs/travel_dataset_v2.csv")
+    //Do ##class(SampleTables.ScreenTimeUsage).LoadData("/opt/irisapp/src/CSVs/technology_use_dataset.csv")
+    //Do ##class(SampleTables.TravelPatterns).LoadData("/opt/irisapp/src/CSVs/travel_dataset_v2.csv")
+    
+    ; set up web app for demo APIs
+    hang 2
+    zn "%SYS"
+    Set tWebApp=##class(Security.Applications).%New()
+    Set tWebApp.Name="/api/READYforACTION"
+    Do tWebApp.MatchRoles.Insert(":%All")
+    Set tWebApp.NameSpace="USER"
+    Set tWebApp.DispatchClass="READYforACTION.disp"
+    Set tWebApp.AutheEnabled=64
+    Write !,"Web App Creation: ",tWebApp.%Save(),!
