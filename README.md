@@ -1,12 +1,19 @@
-# DEMO Notes:
+# ReadyForAction
+Data is not included with the demo, please see ![Data Sources](#data-sources).
+
+iris.script assumes the CSV files exists when building the image
 
 ## Data Sources
 
 ### READY2025
+CSV file saved in ./src/CSVs/READY2025.csv
+
 Pulled from READY2025 Power BI dashboard, filtered down to the following columns:
 FirstName,Company,OrgType,JobTitle,Level,Role,Country,Industry,SubIndustry,RegistrationDate
 
 ### MCOFlightDelays
+CSV file saved in ./src/CSVs/MCOFlightDelays.csv
+
 Pulled from https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1 Filter date range and then click "Download Raw Data"
 
 Passed this data into ChatGPT and asked the following:
