@@ -172,6 +172,14 @@
       color: var(--accent-color);
     }
 
+    .button-grid-description {
+      grid-column: span 2;
+      font-size: 1.2vw;
+      margin-bottom: 2vh;
+      text-align: center;
+      color: var(--primary-color);
+    }
+
     @keyframes spin {
       0% { transform: rotate(0deg); }
       100% { transform: rotate(360deg); }
@@ -200,6 +208,11 @@
 
       .start-over button {
         font-size: 4vw;
+      }
+      
+      .button-grid-description {
+        font-size: 4vw;
+        grid-column: span 1;
       }
     }
 
@@ -250,6 +263,7 @@
   </div>
 
   <div class="button-grid" id="dataset-buttons">
+    <p class="button-grid-description">Generate a dashboard with custom actions for the following dataset using AnalyzeThis</p>
     <button class="action-button" onclick="makeRequest(this, 'http://localhost:61773/api/READYforACTION/dataset/READY2025')">READY 2025 Participants</button>
     <button class="action-button" onclick="makeRequest(this, 'http://localhost:61773/api/READYforACTION/dataset/MCOFlightDelays')">Orlando MCO Flight Delays</button>
   </div>
