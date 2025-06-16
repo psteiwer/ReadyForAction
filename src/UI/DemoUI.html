@@ -29,7 +29,7 @@
     }
 
     h1 {
-      font-size: 6vw;
+      font-size: 5vw;
       margin: 1vh 0 1vh;
       color: var(--accent-color);
     }
@@ -121,7 +121,26 @@
     }
 
     .start-over {
-      margin-top: 3vh;
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 1000;
+    }
+
+    .start-over button {
+      padding: 8px 16px;
+      font-size: 1vw;
+      background-color: var(--primary-color);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .start-over button:hover {
+      background-color: var(--accent-color);
     }
 
     .hidden {
@@ -150,7 +169,7 @@
 
     .progress-text {
       font-size: 1.2vw;
-      color: var(--primary-color);
+      color: var(--accent-color);
     }
 
     @keyframes spin {
@@ -178,6 +197,10 @@
       .intro p {
         font-size: 4vw;
       }
+
+      .start-over button {
+        font-size: 4vw;
+      }
     }
 
     #dashboard-container {
@@ -187,6 +210,7 @@
       overflow: hidden;
       display: flex;
       flex-direction: column;
+      padding-bottom: 60px; /* Enough space for the Start Over button */
     }
 
     #dashboard-loading {
@@ -222,7 +246,7 @@
   </div>
 
   <div class="start-over hidden" id="start-over">
-    <button class="main-button" onclick="startOver()">Start Over</button>
+    <button onclick="startOver()">Start Over</button>
   </div>
 
   <div class="button-grid" id="dataset-buttons">
