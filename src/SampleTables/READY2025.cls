@@ -11,15 +11,13 @@ ClassMethod LoadData(pFile = "") As %Status
     }
 
     Set tSQL="LOAD DATA FROM FILE '"_pFile_"' "
-            _"INTO SampleTables.READY2025 (FirstName,Company,OrgType,JobTitle,Level_sqlsafe,Role_sqlsafe,Country,Industry,SubIndustry,RegistrationDate) "
-            _"VALUES (FirstName,Company,OrgType,JobTitle,""Level"",""Role"",Country,Industry,SubIndustry,RegistrationDate)"
+            _"INTO SampleTables.READY2025 (FirstName,OrgType,JobTitle,Level_sqlsafe,Role_sqlsafe,Country,Industry,SubIndustry,RegistrationDate,PreviousSummits) "
+            _"VALUES (FirstName,OrgType,JobTitle,""Level"",""Role"",Country,Industry,SubIndustry,RegistrationDate,PreviousSummits)"
     Set tRS=##class(%SQL.Statement).%ExecDirect(,tSQL)
     If tRS.%SQLCODE'=0 { Set tSC=tRS.%SQLCODE }
 
     Quit tSC
 }
-
-Property Company As %String(COLLATION = "truncate", MAXLEN = 50) [ SqlColumnNumber = 3 ];
 
 Property Country As %String(MAXLEN = "") [ SqlColumnNumber = 8 ];
 
@@ -35,7 +33,7 @@ Property OrgType As %String(MAXLEN = "") [ SqlColumnNumber = 4 ];
 
 Property RegistrationDate As %Date [ SqlColumnNumber = 11 ];
 
-Property PreviousSummits As %BigInt [ Calculated, SqlColumnNumber = 12, SqlComputeCode = { Set {*} = $random(15) }, SqlComputed ];
+Property PreviousSummits As %BigInt [ SqlColumnNumber = 12 ];
 
 Property Role As %String(MAXLEN = "") [ SqlColumnNumber = 7, SqlFieldName = Role_SQLSafe ];
 
@@ -51,7 +49,7 @@ Method RegistrationDateSet(pVal) As %Status
 
 ClassMethod FetchData(pID) As %DynamicObject
 {
-    &sql(SELECT JSON_OBJECT('FirstName':FirstName, 'Company':Company, 'OrgType':OrgType, 'JobTitle':JobTitle, 'Level':Level_sqlsafe, 'Role':Role_sqlsafe, 'Country':Country, 'Industry':Industry, 'SubIndustry':SubIndustry, 'RegistrationDate':%ODBCOUT(RegistrationDate)) INTO :tJSONData FROM SampleTables.READY2025 WHERE %ID=:pID)
+    &sql(SELECT JSON_OBJECT('FirstName':FirstName, 'OrgType':OrgType, 'JobTitle':JobTitle, 'Level':Level_sqlsafe, 'Role':Role_sqlsafe, 'Country':Country, 'Industry':Industry, 'SubIndustry':SubIndustry, 'RegistrationDate':%ODBCOUT(RegistrationDate), 'PreviousSummits':PreviousSummits) INTO :tJSONData FROM SampleTables.READY2025 WHERE %ID=:pID)
     Return tJSONData
 }
 
@@ -68,63 +66,33 @@ Storage Default
 <Value>%%CLASSNAME</Value>
 </Value>
 <Value name="2">
-<Value>AccountOwner</Value>
-</Value>
-<Value name="3">
-<Value>Company</Value>
-</Value>
-<Value name="4">
-<Value>ContactLeadOwner</Value>
-</Value>
-<Value name="5">
 <Value>Country</Value>
 </Value>
-<Value name="6">
-<Value>Email</Value>
-</Value>
-<Value name="7">
+<Value name="3">
 <Value>FirstName</Value>
 </Value>
-<Value name="8">
-<Value>ISOrgID</Value>
-</Value>
-<Value name="9">
+<Value name="4">
 <Value>Industry</Value>
 </Value>
-<Value name="10">
+<Value name="5">
 <Value>JobTitle</Value>
 </Value>
-<Value name="11">
-<Value>LastName</Value>
-</Value>
-<Value name="12">
+<Value name="6">
 <Value>Level</Value>
 </Value>
-<Value name="13">
-<Value>MarketSegment</Value>
-</Value>
-<Value name="14">
-<Value>OrgID</Value>
-</Value>
-<Value name="15">
+<Value name="7">
 <Value>OrgType</Value>
 </Value>
-<Value name="16">
+<Value name="8">
 <Value>RegistrationDate</Value>
 </Value>
-<Value name="17">
-<Value>RegistrationTime</Value>
-</Value>
-<Value name="18">
+<Value name="9">
 <Value>Role</Value>
 </Value>
-<Value name="19">
+<Value name="10">
 <Value>SubIndustry</Value>
 </Value>
-<Value name="20">
-<Value>PegaID</Value>
-</Value>
-<Value name="21">
+<Value name="11">
 <Value>PreviousSummits</Value>
 </Value>
 </Data>
