@@ -10,7 +10,7 @@ ClassMethod GenerateDataset(pName) As %DynamicObject
         Set tCube="PatientConditions"
 
         If pName="READY2025" {
-            Set tSQL="SELECT FirstName, Company, OrgType, JobTitle, Level_SQLSafe As ""Level"", Role_SQLSafe As ""Role"", Country, Industry, SubIndustry, RegistrationDate, PreviousSummits FROM SampleTables.READY2025"
+            Set tSQL="SELECT FirstName, OrgType, JobTitle, Level_SQLSafe As ""Level"", Role_SQLSafe As ""Role"", Country, Industry, SubIndustry, RegistrationDate, PreviousSummits FROM SampleTables.READY2025"
             Set tLines=10001
             Set tCube="READY2025"
         } ElseIf pName="MCOFlightDelays" {
