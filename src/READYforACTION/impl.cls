@@ -39,11 +39,19 @@ ClassMethod GenerateDataset(pName) As %DynamicObject
         Set:tCube="MCOFlightDelays" tActions=tActions_$lb("DelayReport")
         For i=1:1:tDashboard.widgets.Count() {
             Set tWidget=tDashboard.widgets.GetAt(i)
+            Set tListingEligible=(tWidget.type="pivot")&&(tWidget.subtype="pivot")
             For j=1:1:$LL(tActions) {
+                Set tAction=$LG(tActions,j)
+                Set tIDBased=$select(tAction="Edit":1,tAction="DelayReport":1,1:0)
+                If tIDBased'=tListingEligible {
+                    // Widget type and Action types should match, else skip
+                    continue
+                }
                 Set tControl=##class(%DeepSee.Dashboard.Control).%New()
-                Set tControl.action=tCube_":"_$LG(tActions,j)
-                Set tControl.label=$LG(tActions,j)
+                Set tControl.action=tCube_":"_tAction
+                Set tControl.label=tAction
                 Set tControl.type="auto"
+                Set tControl.activeWhen=$select(tIDBased:"listingSelected1",1:"")
                 Do tWidget.controls.Insert(tControl)
             }
         }
