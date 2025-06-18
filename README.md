@@ -39,7 +39,7 @@ Role - This should contain items like Executive (25%), Developer (15%), Technica
 
 JobTitle - Please give reasonable JobTitles based on the Level + Role combinations.
 
-Country - United States (65%), Brazil (7%), UK (4%), Australia (4%), Italy, Germany, South africal, belgium, switzerland, finland, singapore, kenya, israel all (2%) and a handful of other countries with a couple people.
+Country - United States (65%), Brazil (7%), UK (4%), Australia (4%), Italy, Germany, South Africa, Belgium, Switzerland, Finland, Singapore, Kenya, Israel all (2%) and a handful of other countries with a couple people.
 
 Industry - Business Partner (25%), Healthcare Applications (20%), Healthcare Delivery (20%), software (5%), HIE (5%), Government (5%), Business Services (5%), Health Insurance (3%), Finance (2%), please have a total of about 30 industries.
 
@@ -54,16 +54,17 @@ CSV file saved in ./src/CSVs/MCOFlightDelays.csv
 
 Pulled from https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1 Filter date range and then click "Download Raw Data"
 
-Passed this data into ChatGPT and asked the following:
+Passed this data set into ChatGPT and asked the following:
+Please use this data set to generate some realistic data for a demo. This data set contains historic delay information for flights into orlando MCO. Can you generate 20,000 rows of flights with the following columns: Date, Airline, CauseOfDelay, DelayDuration.
 
-i have this data set for a demo, can you use the data in it to generate some realistic seeming data for me? this contains historic delay information for flights into orlando MCO. can you use this data to generate 10,000 rows of flights with the following information: Date, Airline, CauseOfDelay, AmountOfDelay.
+Date
+- Range from 7/1/2024 to 6/22/2025
 
-please remove the "national" type, since im not really sure what that even means. please alter "amountOfDelay" column. I wanted DelayDuration instead
+CauseOfDelay
+- Please do not include the "national" value
+- Please also include flights with no delays (with a realistic distribution)
 
-please regenerate the delay duration. this should be in minutes, so these durations are not realistic
+DelayDuration
+- Please give realistic DelayDuration in minutes
 
-please remove the odd extra Id column, i dont need this. also, please include flights with no delays. i would like the delays distrubuted as expected with normal non-delayed flights also
-
-please regenerate the whole data set. it looks like you added more rows. i would like 20,000 total rows with a peoper distribution of flight delays. please make the dates range from 7/1/2024 to 6/22/2025
-
-can you add some outlier information into this, that will help my demo be a little more interesting? for example, I expect there is more rain in orlando during hurricane season, can you perhaps look at hurricanes in the last year and add extra delays around that time? please regenerate the full 20,000 using this information
+Can you add some outlier information to help the demo be more interesting? For example, can you perhaps look at hurricanes in the last year and add extra delays around that time?
