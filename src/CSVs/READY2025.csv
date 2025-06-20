@@ -1,0 +1,751 @@
+FirstName,OrgType,JobTitle,Level,Role,Country,Industry,SubIndustry,RegistrationDate,PreviousSummits
+Jonathan,Analyst,VP-Level Developer Lead,VP-Level,Developer,United States,Hospitality,Event Services,2025-03-25,12
+Raj,Customer,VP-Level Technical Specialist,VP-Level,Technical,Switzerland,Manufacturing,Medical Devices,2025-05-06,15
+Eric,Customer,C-Level Product Manager,C-Level,Product Management,United States,Construction,General Contracting,2025-06-18,3
+Paul,Customer,Director Technical Specialist,Director,Technical,United States,Non-Profit,NGO,2025-04-14,1
+Thomas,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Telecom,Network Provider,2025-04-11,9
+Angela,Customer,Manager Executive,Manager,Executive,United States,Insurance,Life,2025-06-04,3
+Mikhail,Partner,C-Level Associate,C-Level,Marketing,Finland,Automotive,Manufacturing,2025-04-29,10
+William,Partner,Non-Manager Executive,Non-Manager,Executive,United States,Hospitality,Hotels,2025-04-21,0
+Melissa,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Aerospace,Commercial Aviation,2025-05-02,4
+Steven,Customer,C-Level Associate,C-Level,Security,United States,Healthcare Applications,Clinical Decision Support,2025-05-02,12
+Betty,Customer,Non-Manager Associate,Non-Manager,Security,United States,Government,Public Health,2025-03-12,6
+Elena,Customer,Manager Operations Manager,Manager,Operations,Belgium,Education,University,2025-06-06,0
+Lisa,Customer,VP-Level Clinician,VP-Level,Clinical,United States,Telecom,Mobile Operator,2025-06-06,0
+Linda,Customer,Manager Associate,Manager,Education,United Kingdom,Business Partner,Consulting,2025-06-13,4
+Jason,Prospect,Manager Technical Specialist,Manager,Technical,Singapore,Hospitality,Event Services,2025-05-30,12
+Anita,Customer,Director Clinician,Director,Clinical,United States,Software,Enterprise,2025-04-02,3
+Larry,Customer,Manager Sales Rep,Manager,Sales,South Africa,Education,University,2025-05-28,8
+Charles,Customer,Manager Clinician,Manager,Clinical,United States,Cybersecurity,Threat Intelligence,2025-04-10,6
+Thomas,Customer,Non-Manager Sales Rep,Non-Manager,Sales,Brazil,Business Services,IT Services,2025-03-27,2
+George,Customer,Director Developer Lead,Director,Developer,United States,Non-Profit,NGO,2025-04-21,2
+Sofia,Customer,Manager Engineer,Manager,Developer,Israel,Energy,Renewable Energy,2025-06-06,0
+Kevin,Customer,Non-Manager Operations Manager,Non-Manager,Operations,Mexico,Media,Publishing,2025-05-22,9
+Andrei,Prospect,VP-Level Associate,VP-Level,Support,United States,Health Insurance,Payer,2025-04-29,8
+Linda,Customer,Director Technical Specialist,Director,Technical,United Kingdom,Health Insurance,Claims Processing,2025-05-14,0
+Kevin,Customer,Director Executive,Director,Executive,United States,Pharma,Biotech,2025-05-01,13
+Luca,Customer,VP-Level Technical Specialist,VP-Level,Technical,Brazil,Sports,Facilities,2025-03-28,13
+Jessica,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Aerospace,Defense,2025-04-08,13
+Anil,Analyst,Non-Manager Clinician,Non-Manager,Clinical,United Kingdom,Sports,Teams,2025-05-21,1
+Patrick,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Healthcare Applications,Clinical Decision Support,2025-05-14,13
+Olu,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Healthcare Delivery,Hospitals,2025-03-13,4
+Lisa,Customer,C-Level Architect,C-Level,Technical,United States,Business Partner,VAR,2025-03-28,0
+Gary,Prospect,Manager Engineer,Manager,Developer,Israel,Retail,Brick & Mortar,2025-04-17,2
+Sofia,Customer,Non-Manager Operations Manager,Non-Manager,Operations,United States,Business Partner,Reseller,2025-06-03,15
+Brian,Prospect,C-Level Architect,C-Level,Technical,United States,Software,Enterprise,2025-05-05,0
+Jason,Customer,Non-Manager Product Manager,Non-Manager,Product Management,United States,Manufacturing,Industrial,2025-05-19,13
+Angela,Customer,Director Clinician,Director,Clinical,United States,HIE,Regional HIE,2025-06-03,14
+Zahra,Prospect,Manager Executive,Manager,Executive,United Kingdom,Finance,Banking,2025-03-18,4
+Lisa,Customer,Manager Technical Specialist,Manager,Technical,United States,Business Partner,Reseller,2025-04-17,6
+Olu,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Business Partner,VAR,2025-05-30,11
+Elizabeth,Customer,Manager Sales Rep,Manager,Sales,United States,Business Partner,Reseller,2025-05-13,14
+Michael,Customer,Manager Clinician,Manager,Clinical,United States,Aerospace,Commercial Aviation,2025-05-23,11
+Alessandro,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United Kingdom,AI & ML,Research,2025-05-27,14
+Carol,Customer,Manager Technical Specialist,Manager,Technical,United States,Government,Local Government,2025-04-07,3
+Matthew,Customer,C-Level Officer,C-Level,Executive,United States,AI & ML,Application Development,2025-03-19,13
+Jacob,Prospect,Director Technical Specialist,Director,Technical,United States,Sports,Teams,2025-05-27,0
+Anna,Analyst,Non-Manager Engineer,Non-Manager,Developer,Germany,AI & ML,Research,2025-03-17,4
+Zahra,Customer,Manager Engineer,Manager,Developer,United States,Sports,Leagues,2025-05-29,2
+Stephanie,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Healthcare Delivery,Hospitals,2025-03-14,0
+Mikhail,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Finance,Investment,2025-05-12,5
+Anita,Customer,Non-Manager Clinician,Non-Manager,Clinical,Italy,Government,Local Government,2025-05-15,3
+Alessandro,Customer,C-Level Architect,C-Level,Technical,United States,Fashion,Footwear,2025-05-12,13
+Helen,Customer,Director Developer Lead,Director,Developer,United States,Media,Publishing,2025-05-05,0
+Thomas,Customer,VP-Level Operations Manager,VP-Level,Operations,United States,AI & ML,Application Development,2025-05-19,0
+Mikhail,Prospect,Non-Manager Engineer,Non-Manager,Developer,United States,Media,Streaming,2025-06-12,13
+Matthew,Customer,Director Technical Specialist,Director,Technical,United States,Pharma,Biotech,2025-06-16,9
+John,Prospect,Manager Technical Specialist,Manager,Technical,United States,Legal,Corporate Legal,2025-06-09,0
+Rebecca,Customer,Manager Sales Rep,Manager,Sales,United States,Telecom,Mobile Operator,2025-05-08,14
+Raj,Customer,VP-Level Operations Manager,VP-Level,Operations,Brazil,Software,SaaS,2025-04-18,0
+Nicholas,Customer,C-Level Developer Lead,C-Level,Developer,United States,Sports,Teams,2025-03-18,8
+Helen,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Sports,Leagues,2025-05-13,14
+George,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Automotive,Dealerships,2025-05-30,10
+Mikhail,Customer,Non-Manager Product Manager,Non-Manager,Product Management,United States,Construction,General Contracting,2025-05-09,14
+Anil,Customer,Manager Associate,Manager,Legal,United States,Non-Profit,Advocacy,2025-06-13,12
+Dorothy,Customer,Manager Technical Specialist,Manager,Technical,United States,Legal,Law Firms,2025-03-27,6
+Rebecca,Customer,C-Level Architect,C-Level,Technical,United States,Cybersecurity,Threat Intelligence,2025-05-12,3
+James,Customer,Manager Executive,Manager,Executive,United States,Non-Profit,Advocacy,2025-04-08,9
+Gary,Customer,VP-Level Developer Lead,VP-Level,Developer,Finland,Transportation,Fleet Management,2025-03-21,5
+Thomas,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Construction,General Contracting,2025-05-19,1
+Ivan,Customer,Non-Manager Sales Rep,Non-Manager,Sales,United States,HIE,Vendor-based HIE,2025-05-14,0
+David,Customer,C-Level Architect,C-Level,Technical,United States,Health Insurance,Member Services,2025-05-28,12
+Anita,Customer,C-Level Sales Lead,C-Level,Sales,Finland,Non-Profit,Charity,2025-06-06,5
+Priya,Prospect,VP-Level Associate,VP-Level,Legal,United States,Education,Research,2025-03-26,12
+Pedro,Customer,Director Technical Specialist,Director,Technical,United States,Fashion,Footwear,2025-05-16,1
+Monica,Customer,Non-Manager Operations Manager,Non-Manager,Operations,Singapore,Finance,Banking,2025-04-03,5
+Maria,Partner,Non-Manager Executive,Non-Manager,Executive,Brazil,HIE,Regional HIE,2025-05-12,13
+Jason,Customer,Manager Engineer,Manager,Developer,United States,Finance,Accounting,2025-04-02,6
+Eric,Vendor,Manager Technical Specialist,Manager,Technical,United States,Cybersecurity,Endpoint Protection,2025-04-16,2
+Thomas,Customer,VP-Level Operations Manager,VP-Level,Operations,India,Sports,Facilities,2025-05-20,9
+Jason,Customer,C-Level Architect,C-Level,Technical,United States,Software,Enterprise,2025-05-13,6
+William,Partner,Non-Manager Executive,Non-Manager,Executive,United States,AI & ML,Application Development,2025-04-04,0
+Betty,Indirect Customer,Manager Engineer,Manager,Developer,Brazil,Software,Dev Tools,2025-04-11,10
+Anil,Customer,Non-Manager Sales Rep,Non-Manager,Sales,United States,Non-Profit,Advocacy,2025-05-28,3
+Deborah,Customer,Director Executive,Director,Executive,United States,Pharma,Biotech,2025-04-16,11
+Jessica,Customer,Director Technical Specialist,Director,Technical,United States,Cybersecurity,Endpoint Protection,2025-04-11,8
+Thomas,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Business Partner,Reseller,2025-04-25,2
+Carol,Prospect,Non-Manager Product Manager,Non-Manager,Product Management,United States,Insurance,Auto,2025-05-20,5
+Sandra,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Automotive,Manufacturing,2025-03-25,0
+Sofia,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Health Insurance,Payer,2025-05-23,8
+Andrei,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Energy,Oil & Gas,2025-05-07,9
+Frank,Customer,Manager Technical Specialist,Manager,Technical,United States,Transportation,Public Transit,2025-03-13,8
+Alessandro,Customer,VP-Level Executive,VP-Level,Executive,United States,Software,SaaS,2025-05-12,14
+Eric,Prospect,Director Technical Specialist,Director,Technical,United States,Automotive,Manufacturing,2025-05-28,4
+Mikhail,Customer,Manager Executive,Manager,Executive,United States,Retail,Brick & Mortar,2025-04-29,12
+Kevin,Customer,VP-Level Executive,VP-Level,Executive,United States,Healthcare Delivery,Hospitals,2025-03-20,3
+Paul,Customer,C-Level Officer,C-Level,Executive,United States,Non-Profit,NGO,2025-05-29,1
+Donna,Customer,Director Technical Specialist,Director,Technical,United States,Energy,Renewable Energy,2025-04-18,0
+Rebecca,Prospect,Manager Technical Specialist,Manager,Technical,United States,Business Services,Legal,2025-06-06,9
+Ivan,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Brazil,Business Partner,Reseller,2025-04-07,10
+William,Vendor,Non-Manager Product Manager,Non-Manager,Product Management,United States,HIE,Vendor-based HIE,2025-03-21,7
+Jeffrey,Customer,Manager Clinician,Manager,Clinical,United States,Education,Training Org,2025-06-03,0
+Anita,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Construction,Infrastructure,2025-05-06,14
+Justin,Customer,Director Technical Specialist,Director,Technical,Brazil,Media,Streaming,2025-03-13,14
+Benjamin,Customer,C-Level Associate,C-Level,,United States,HIE,National HIE,2025-03-25,13
+David,Prospect,C-Level Architect,C-Level,Technical,United States,Real Estate,Property Management,2025-03-13,1
+Paul,Customer,C-Level Associate,C-Level,Strategy,Belgium,Media,Streaming,2025-05-21,13
+Samuel,Partner,VP-Level Sales Rep,VP-Level,Sales,Israel,Retail,Omnichannel,2025-03-24,4
+Paul,Customer,Manager Technical Specialist,Manager,Technical,United States,Education,Research,2025-05-19,0
+Nancy,Customer,C-Level Officer,C-Level,Executive,Singapore,Telecom,Network Provider,2025-04-29,0
+Richard,Customer,C-Level Architect,C-Level,Technical,United States,AI & ML,Application Development,2025-05-23,6
+Laura,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Transportation,Fleet Management,2025-04-01,0
+Giuseppe,Customer,C-Level Architect,C-Level,Technical,United States,Manufacturing,Industrial,2025-06-17,9
+Raj,Partner,Manager Associate,Manager,Education,Italy,Insurance,Auto,2025-05-06,0
+Richard,Analyst,Manager Technical Specialist,Manager,Technical,United States,Software,Enterprise,2025-03-26,1
+Samuel,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Hospitality,Resorts,2025-04-17,12
+Maria,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Brazil,Healthcare Applications,EHR,2025-04-15,15
+Lisa,Partner,VP-Level Technical Specialist,VP-Level,Technical,United States,Media,Broadcasting,2025-04-22,7
+Raj,Prospect,Manager Executive,Manager,Executive,United States,Manufacturing,Industrial,2025-05-08,9
+Thomas,Indirect Customer,Non-Manager Executive,Non-Manager,Executive,United States,Telecom,Network Provider,2025-04-23,4
+Pedro,Prospect,,,Technical,United States,Automotive,EVs,2025-06-18,1
+Susan,Customer,Director Associate,Director,Marketing,United States,Manufacturing,Medical Devices,2025-05-13,3
+Michelle,Customer,Manager Executive,Manager,Executive,Brazil,Health Insurance,Claims Processing,2025-05-09,4
+Michael,Customer,Director Administrator,Director,Business Administration,Italy,Cybersecurity,Threat Intelligence,2025-06-13,8
+Rebecca,Prospect,Director Executive,Director,Executive,United States,AI & ML,Research,2025-04-15,15
+Gary,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Sports,Teams,2025-05-30,14
+Raymond,Indirect Customer,Non-Manager Engineer,Non-Manager,Developer,Singapore,Fashion,Footwear,2025-05-08,12
+Anil,Prospect,Director Technical Specialist,Director,Technical,United States,Education,University,2025-05-19,3
+John,Customer,Director Executive,Director,Executive,Brazil,HIE,Vendor-based HIE,2025-05-08,1
+Marco,Customer,C-Level Developer Lead,C-Level,Developer,Kenya,Hospitality,Resorts,2025-04-01,10
+Gregory,Customer,Manager Engineer,Manager,Developer,United States,Software,Enterprise,2025-03-24,4
+Elizabeth,Customer,C-Level Developer Lead,C-Level,Developer,United States,Health Insurance,Claims Processing,2025-05-16,6
+Larry,Customer,VP-Level Executive,VP-Level,Executive,Italy,Energy,Renewable Energy,2025-05-01,6
+Johann,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Health Insurance,Member Services,2025-05-06,6
+Kevin,Customer,C-Level Product Manager,C-Level,Product Management,Germany,Government,Federal Agency,2025-05-15,3
+Matthew,Partner,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Business Services,IT Services,2025-04-03,13
+Donna,Prospect,Manager Associate,Manager,Legal,Australia,Government,Public Health,2025-03-11,5
+Pedro,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Retail,Brick & Mortar,2025-04-24,6
+Chloe,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Pharma,Biotech,2025-06-20,6
+William,Customer,C-Level Officer,C-Level,Executive,United States,Hospitality,Resorts,2025-05-26,15
+Rebecca,Customer,VP-Level Sales Rep,VP-Level,Sales,United States,Construction,General Contracting,2025-05-07,15
+Maria,Customer,C-Level Officer,C-Level,Executive,Belgium,Non-Profit,NGO,2025-03-13,6
+Rafael,Customer,Director Technical Specialist,Director,Technical,United States,Non-Profit,NGO,2025-05-27,9
+Jason,Customer,Director Executive,Director,Executive,United States,Software,SaaS,2025-05-09,2
+John,Partner,Non-Manager Executive,Non-Manager,Executive,United States,Hospitality,Event Services,2025-05-13,0
+Jessica,Customer,C-Level Architect,C-Level,Technical,United Kingdom,Legal,Corporate Legal,2025-05-26,5
+Jessica,Prospect,Director Developer Lead,Director,Developer,United Kingdom,Agriculture,Farming,2025-05-30,0
+Matthew,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Telecom,Mobile Operator,2025-06-11,0
+Deborah,Customer,C-Level Developer Lead,C-Level,Developer,France,Agriculture,Food Processing,2025-05-27,3
+Monica,Prospect,Director Developer Lead,Director,Developer,United States,Energy,Renewable Energy,2025-05-16,3
+Rebecca,Customer,VP-Level Operations Manager,VP-Level,Operations,Singapore,Healthcare Applications,EHR,2025-04-22,0
+Cynthia,Customer,Non-Manager Operations Manager,Non-Manager,Operations,Kenya,Insurance,Life,2025-05-26,3
+Linda,Customer,Director Executive,Director,Executive,United States,Government,Federal Agency,2025-05-22,6
+Zahra,Prospect,VP-Level Executive,VP-Level,Executive,Switzerland,Healthcare Delivery,Telehealth Providers,2025-04-11,14
+Richard,Indirect Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Finland,Real Estate,Property Management,2025-05-02,7
+Andrei,Customer,Manager Product Manager,Manager,Product Management,United States,Pharma,Biotech,2025-05-29,15
+Paul,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Japan,Software,Enterprise,2025-03-24,10
+Steven,Customer,Manager Executive,Manager,Executive,United States,AI & ML,Application Development,2025-06-06,0
+Ivan,Customer,VP-Level Sales Rep,VP-Level,Sales,United States,HIE,Vendor-based HIE,2025-06-02,10
+Helen,Customer,Director Executive,Director,Executive,United States,Media,Broadcasting,2025-05-12,8
+George,Customer,Manager Technical Specialist,Manager,Technical,United States,Insurance,Property,2025-05-02,0
+Daniel,Customer,Manager Technical Specialist,Manager,Technical,United States,Healthcare Delivery,Telehealth Providers,2025-05-12,2
+Gary,Prospect,VP-Level Developer Lead,VP-Level,Developer,Italy,Telecom,Mobile Operator,2025-04-14,9
+Matthew,Customer,C-Level Associate,C-Level,Support,United States,Transportation,Public Transit,2025-06-17,0
+Helen,Customer,Non-Manager Engineer,Non-Manager,Developer,France,Aerospace,Commercial Aviation,2025-05-27,8
+Monica,Vendor,Manager Executive,Manager,Executive,United States,Education,University,2025-05-07,1
+Jeffrey,Customer,Manager Technical Specialist,Manager,Technical,Australia,Automotive,EVs,2025-03-27,14
+Anna,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Fashion,Apparel,2025-06-12,0
+Pedro,Prospect,Manager Engineer,Manager,Developer,United States,Business Services,Marketing,2025-06-06,1
+Angela,Customer,C-Level Officer,C-Level,Executive,United States,Construction,Infrastructure,2025-04-23,6
+Richard,Customer,Director Executive,Director,Executive,United Kingdom,Construction,Infrastructure,2025-04-10,14
+Andrei,Customer,Director Executive,Director,Executive,United States,Finance,Banking,2025-05-05,14
+Cynthia,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Media,Streaming,2025-06-03,3
+Benjamin,Customer,C-Level Product Manager,C-Level,Product Management,United States,Cybersecurity,Endpoint Protection,2025-04-21,5
+Helen,Customer,Manager Engineer,Manager,Developer,United States,Aerospace,Defense,2025-05-21,4
+Daniel,Customer,C-Level Architect,C-Level,Technical,United States,Non-Profit,Charity,2025-05-20,7
+Monica,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Government,Public Health,2025-05-23,2
+Lisa,Customer,Manager Executive,Manager,Executive,United Kingdom,AI & ML,Research,2025-06-18,1
+Keisha,Prospect,Director Associate,Director,Strategy,Kenya,AI & ML,Application Development,2025-03-11,2
+Lisa,Partner,VP-Level Technical Specialist,VP-Level,Technical,Mexico,Real Estate,Residential,2025-04-03,5
+Brian,Customer,Non-Manager Product Manager,Non-Manager,Product Management,United Kingdom,Construction,General Contracting,2025-04-17,15
+Anita,Customer,C-Level Associate,C-Level,Customer Success,Brazil,Pharma,Biotech,2025-03-12,3
+Nicholas,Prospect,Manager Technical Specialist,Manager,Technical,United States,Manufacturing,Industrial,2025-06-05,15
+Nicholas,Customer,C-Level Product Manager,C-Level,Product Management,Brazil,Healthcare Applications,EHR,2025-04-10,5
+Elizabeth,Indirect Customer,C-Level Architect,C-Level,Technical,United States,Hospitality,Hotels,2025-05-27,14
+Kevin,Prospect,Director Executive,Director,Executive,United States,Real Estate,Property Management,2025-05-22,2
+David,Prospect,Manager Technical Specialist,Manager,Technical,United States,Real Estate,Commercial,2025-06-04,14
+Luca,Customer,C-Level Architect,C-Level,Technical,United States,Non-Profit,Advocacy,2025-03-20,1
+George,Prospect,C-Level Associate,C-Level,Customer Success,United States,Real Estate,Property Management,2025-05-09,10
+Dorothy,Analyst,C-Level Developer Lead,C-Level,Developer,United States,Agriculture,Food Processing,2025-06-12,0
+Cynthia,Vendor,Manager Executive,Manager,Executive,United States,HIE,Vendor-based HIE,2025-05-13,13
+Andrei,Prospect,Non-Manager Operations Manager,Non-Manager,Operations,United States,Non-Profit,Advocacy,2025-04-04,2
+Anthony,Prospect,VP-Level Operations Manager,VP-Level,Operations,United States,Legal,Law Firms,2025-06-11,15
+Richard,Customer,Manager Technical Specialist,Manager,Technical,United States,Retail,E-Commerce,2025-06-20,2
+Jason,Customer,Non-Manager Executive,Non-Manager,Executive,Australia,Insurance,Life,2025-03-12,8
+Jacob,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Healthcare Applications,Clinical Decision Support,2025-04-03,1
+Nicholas,Customer,Manager Engineer,Manager,Developer,Germany,Agriculture,AgTech,2025-05-27,4
+Frank,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Pharma,Biotech,2025-06-03,3
+Linda,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Telecom,Mobile Operator,2025-04-09,11
+Andrei,Prospect,Director Associate,Director,Finance,United States,Sports,Leagues,2025-04-24,10
+Mikhail,Customer,Director Developer Lead,Director,Developer,United States,Manufacturing,Industrial,2025-05-20,6
+Thomas,Prospect,Manager Executive,Manager,Executive,United States,Manufacturing,Medical Devices,2025-04-03,9
+Justin,Customer,Manager Executive,Manager,Executive,United States,AI & ML,Research,2025-04-08,8
+Lisa,Prospect,Director Technical Specialist,Director,Technical,United States,Cybersecurity,Endpoint Protection,2025-04-01,6
+Paul,Customer,Director Developer Lead,Director,Developer,United States,Healthcare Delivery,Telehealth Providers,2025-06-10,6
+Jonathan,Customer,Director Executive,Director,Executive,United States,HIE,National HIE,2025-05-13,5
+Larry,Customer,C-Level Associate,C-Level,Security,United States,Health Insurance,Member Services,2025-05-23,13
+Donna,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Agriculture,AgTech,2025-05-14,14
+Elena,Customer,VP-Level Developer Lead,VP-Level,Developer,South Africa,Healthcare Delivery,Telehealth Providers,2025-03-20,0
+Anna,Customer,Director Executive,Director,Executive,United States,Energy,Utilities,2025-05-27,8
+Nancy,Customer,Manager Product Manager,Manager,Product Management,United States,Business Partner,Consulting,2025-05-08,14
+Donna,Customer,Non-Manager Executive,Non-Manager,Executive,Kenya,Government,Local Government,2025-04-10,5
+Donna,Customer,Director Associate,Director,Strategy,United States,AI & ML,Application Development,2025-06-06,15
+Maria,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Belgium,Aerospace,Defense,2025-04-03,15
+Paul,Customer,Non-Manager Executive,Non-Manager,Executive,Belgium,Construction,Infrastructure,2025-06-18,0
+Eric,Customer,VP-Level Associate,VP-Level,Customer Success,Finland,Non-Profit,Advocacy,2025-03-11,0
+Chloe,Customer,Director Executive,Director,Executive,Brazil,Government,Public Health,2025-04-16,0
+Betty,Customer,Non-Manager Sales Rep,Non-Manager,Sales,United States,HIE,Regional HIE,2025-06-02,9
+Ronald,Customer,Director Developer Lead,Director,Developer,Italy,Non-Profit,Charity,2025-06-02,0
+Paul,Customer,Director Executive,Director,Executive,United States,Hospitality,Event Services,2025-05-29,0
+Paul,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Real Estate,Residential,2025-05-26,2
+Jennifer,Customer,Non-Manager Clinician,Non-Manager,Clinical,United Kingdom,Healthcare Delivery,Hospitals,2025-05-08,0
+Luca,Prospect,Director Developer Lead,Director,Developer,United States,Education,Research,2025-03-11,0
+Mikhail,Customer,Manager Associate,Manager,Legal,United States,Business Partner,Reseller,2025-05-29,7
+Anthony,Customer,Director Associate,Director,Support,United States,Cybersecurity,Threat Intelligence,2025-04-04,11
+Steven,Customer,Director Executive,Director,Executive,United States,Retail,Brick & Mortar,2025-05-12,11
+Michelle,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Software,Enterprise,2025-05-20,7
+Nancy,Vendor,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Fashion,Luxury Goods,2025-04-28,15
+Matthew,Customer,Manager Executive,Manager,Executive,United States,Education,Training Org,2025-05-12,4
+Ivan,Customer,Director Technical Specialist,Director,Technical,United States,Software,SaaS,2025-06-16,0
+Rebecca,Prospect,Manager Technical Specialist,Manager,Technical,United States,Agriculture,AgTech,2025-06-02,0
+Angela,Customer,Non-Manager Associate,Non-Manager,Strategy,United States,Construction,General Contracting,2025-04-21,13
+Alessandro,Customer,Manager Engineer,Manager,Developer,United States,Real Estate,Property Management,2025-03-25,9
+Jeffrey,Customer,Non-Manager Engineer,Non-Manager,Developer,Australia,Construction,Infrastructure,2025-05-29,7
+Donna,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Business Partner,Reseller,2025-05-28,4
+Andrei,Customer,Director Executive,Director,Executive,Brazil,Non-Profit,Charity,2025-03-17,0
+Richard,Customer,VP-Level Executive,VP-Level,Executive,South Africa,Agriculture,AgTech,2025-05-13,13
+Robert,Customer,Manager Technical Specialist,Manager,Technical,Brazil,Education,Research,2025-05-16,0
+Jacob,Customer,Non-Manager Associate,Non-Manager,Marketing,United States,Legal,Law Firms,2025-05-12,13
+Angela,Customer,Manager Executive,Manager,Executive,United States,Government,Federal Agency,2025-03-19,4
+Mikhail,Prospect,Manager Technical Specialist,Manager,Technical,Brazil,Business Services,Marketing,2025-03-13,0
+Rachel,Prospect,Manager Technical Specialist,Manager,Technical,United States,Software,SaaS,2025-05-15,7
+Edward,Prospect,Director Executive,Director,Executive,United States,Retail,E-Commerce,2025-05-23,14
+Benjamin,Customer,C-Level Product Manager,C-Level,Product Management,United States,Education,University,2025-04-16,14
+Nicholas,Indirect Customer,Manager Technical Specialist,Manager,Technical,United States,Real Estate,Property Management,2025-04-04,0
+George,Indirect Customer,C-Level Officer,C-Level,Executive,United States,Healthcare Applications,PACS,2025-05-01,0
+Raj,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Non-Profit,NGO,2025-05-23,0
+Jason,Customer,C-Level Architect,C-Level,Technical,United States,Finance,Accounting,2025-05-28,8
+Scott,Customer,Manager Operations Manager,Manager,Operations,United States,Real Estate,Residential,2025-05-05,8
+Richard,Customer,C-Level Architect,C-Level,Technical,United Kingdom,Construction,General Contracting,2025-06-02,12
+Fatima,Customer,Non-Manager Product Manager,Non-Manager,Product Management,France,Automotive,Manufacturing,2025-05-27,7
+Anthony,Customer,Non-Manager Executive,Non-Manager,Executive,Germany,Fashion,Luxury Goods,2025-04-11,6
+Angela,Prospect,Director Technical Specialist,Director,Technical,Israel,Energy,Oil & Gas,2025-04-25,7
+Barbara,Customer,C-Level Officer,C-Level,Executive,Brazil,Agriculture,Farming,2025-05-13,7
+Steven,Customer,C-Level Officer,C-Level,Executive,United States,Manufacturing,Medical Devices,2025-06-04,0
+Michael,Customer,Non-Manager Associate,Non-Manager,Strategy,Switzerland,Retail,Brick & Mortar,2025-03-18,2
+Lisa,Customer,VP-Level Associate,VP-Level,Customer Success,Brazil,Sports,Facilities,2025-06-02,8
+Steven,Prospect,Director Technical Specialist,Director,Technical,United States,Software,Enterprise,2025-06-06,1
+Edward,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Cybersecurity,Threat Intelligence,2025-03-18,4
+Elizabeth,Customer,VP-Level Operations Manager,VP-Level,Operations,United States,Insurance,Auto,2025-04-14,0
+Anita,Prospect,VP-Level Associate,VP-Level,Customer Success,United States,Education,Training Org,2025-05-08,0
+Tunde,Customer,C-Level Architect,C-Level,Technical,United States,Business Services,Marketing,2025-03-20,10
+Fatima,Customer,Manager Technical Specialist,Manager,Technical,United States,Manufacturing,Medical Devices,2025-04-15,13
+Zahra,Customer,Non-Manager Executive,Non-Manager,Executive,Brazil,Non-Profit,Charity,2025-03-24,8
+Robert,Prospect,Non-Manager Executive,Non-Manager,Executive,United States,Pharma,Biotech,2025-03-25,0
+Lisa,Customer,C-Level Associate,C-Level,Marketing,United States,Pharma,Drug Manufacturer,2025-05-26,14
+Jacob,Prospect,Non-Manager Engineer,Non-Manager,Developer,Israel,Business Partner,Consulting,2025-04-01,4
+Margaret,Customer,Director Developer Lead,Director,Developer,Australia,Automotive,Manufacturing,2025-03-26,14
+Alessandro,Customer,Manager Technical Specialist,Manager,Technical,Mexico,AI & ML,Research,2025-06-20,14
+Claudia,Customer,C-Level Associate,C-Level,,Mexico,Healthcare Delivery,Telehealth Providers,2025-04-15,0
+Nicholas,Customer,VP-Level Operations Manager,VP-Level,Operations,United States,Agriculture,AgTech,2025-05-06,9
+Larry,Customer,C-Level Officer,C-Level,Executive,United States,Cybersecurity,Threat Intelligence,2025-05-07,2
+Donald,Partner,Non-Manager Operations Manager,Non-Manager,Operations,Belgium,Healthcare Applications,EHR,2025-03-12,1
+Donald,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Business Partner,VAR,2025-04-08,9
+Mikhail,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Software,Enterprise,2025-03-24,6
+Michelle,Customer,Manager Technical Specialist,Manager,Technical,United States,Legal,Law Firms,2025-05-13,0
+Sandra,Customer,Manager Executive,Manager,Executive,United States,Software,SaaS,2025-03-21,1
+Jacob,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Telecom,Network Provider,2025-06-02,0
+Nancy,Partner,VP-Level Sales Rep,VP-Level,Sales,United States,Education,Research,2025-04-21,6
+Alessandro,Indirect Customer,Manager Operations Manager,Manager,Operations,United States,Fashion,Apparel,2025-03-11,12
+Zahra,Customer,Non-Manager Sales Rep,Non-Manager,Sales,United States,Business Partner,VAR,2025-05-01,4
+Justin,Partner,Director Associate,Director,,France,Automotive,EVs,2025-05-07,10
+Helen,Indirect Customer,Director Clinician,Director,Clinical,United States,Sports,Teams,2025-03-25,5
+William,Customer,C-Level Officer,C-Level,Executive,United States,AI & ML,Research,2025-03-13,9
+Gregory,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Japan,Healthcare Delivery,Hospitals,2025-05-22,14
+Matthew,Partner,C-Level COO,C-Level,Operations,United States,Finance,Investment,2025-05-27,6
+Paul,Customer,Manager Clinician,Manager,Clinical,Israel,HIE,Vendor-based HIE,2025-03-27,12
+Paul,Customer,C-Level Associate,C-Level,Legal,Australia,Retail,Brick & Mortar,2025-03-20,0
+Karen,Customer,Director Technical Specialist,Director,Technical,United States,Business Services,Legal,2025-05-28,7
+Michael,Prospect,C-Level Associate,C-Level,Security,Germany,Government,Public Health,2025-05-01,2
+Justin,Customer,C-Level Sales Lead,C-Level,Sales,United States,Healthcare Applications,LIS,2025-06-03,15
+Dorothy,Analyst,Non-Manager Engineer,Non-Manager,Developer,United States,Fashion,Apparel,2025-04-04,3
+Thomas,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Healthcare Applications,Clinical Decision Support,2025-06-17,15
+Alexander,Customer,Manager Engineer,Manager,Developer,United States,Telecom,Network Provider,2025-05-08,0
+Larry,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Pharma,Biotech,2025-04-02,0
+Matthew,Analyst,Non-Manager Associate,Non-Manager,Customer Success,United States,Legal,Law Firms,2025-05-29,14
+Fatima,Customer,Manager Engineer,Manager,Developer,United States,Manufacturing,Medical Devices,2025-05-27,0
+Jennifer,Analyst,Non-Manager Associate,Non-Manager,Marketing,France,Energy,Oil & Gas,2025-06-04,0
+Nancy,Customer,Director Executive,Director,Executive,Italy,Aerospace,Defense,2025-06-11,11
+Anthony,Customer,Director Associate,Director,Marketing,United Kingdom,Telecom,Network Provider,2025-04-07,3
+Jason,Customer,VP-Level Technical Specialist,VP-Level,Technical,Germany,Legal,Corporate Legal,2025-03-11,0
+Richard,Prospect,C-Level Officer,C-Level,Executive,United States,Cybersecurity,Threat Intelligence,2025-04-15,0
+Nancy,Prospect,Non-Manager Executive,Non-Manager,Executive,United States,Media,Broadcasting,2025-06-09,2
+Kevin,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Telecom,Mobile Operator,2025-04-02,8
+Lisa,Prospect,Director Technical Specialist,Director,Technical,United States,Insurance,Property,2025-04-18,3
+Anil,Indirect Customer,Director Technical Specialist,Director,Technical,United States,Agriculture,Food Processing,2025-05-13,1
+William,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,India,Business Services,Marketing,2025-05-05,10
+Anil,Customer,Director Developer Lead,Director,Developer,United States,AI & ML,Application Development,2025-04-18,10
+Robert,Vendor,Director Executive,Director,Executive,United States,Manufacturing,Industrial,2025-06-19,13
+Robert,Prospect,Manager Clinician,Manager,Clinical,United States,Sports,Facilities,2025-04-28,10
+Ronald,Customer,C-Level Architect,C-Level,Technical,United States,Telecom,Mobile Operator,2025-03-19,2
+Anil,Customer,Manager Technical Specialist,Manager,Technical,United States,Business Partner,Consulting,2025-06-16,0
+Edward,Customer,Director Clinician,Director,Clinical,United States,Real Estate,Property Management,2025-05-08,10
+John,Customer,Director Operations Manager,Director,Operations,United States,Healthcare Applications,EHR,2025-04-08,8
+Matthew,Prospect,C-Level Architect,C-Level,Technical,Brazil,Legal,Corporate Legal,2025-04-09,13
+Fatima,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Government,Public Health,2025-05-21,13
+John,Customer,Director Associate,Director,Education,United States,Aerospace,Defense,2025-04-02,4
+Nicholas,Customer,C-Level Developer Lead,C-Level,Developer,United States,AI & ML,Application Development,2025-04-09,13
+Sarah,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Energy,Oil & Gas,2025-05-20,0
+Anita,Customer,Manager Engineer,Manager,Developer,United States,Business Services,IT Services,2025-05-13,7
+Matthew,Partner,,,Operations,South Africa,Health Insurance,Member Services,2025-03-13,13
+Nicholas,Customer,Director Operations Manager,Director,Operations,United States,Insurance,Property,2025-05-06,13
+Luca,Customer,C-Level Associate,C-Level,Security,Australia,AI & ML,Research,2025-03-19,14
+Helen,Customer,Director Executive,Director,Executive,United States,Transportation,Fleet Management,2025-04-02,14
+Anthony,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Insurance,Property,2025-05-23,6
+Samuel,Customer,Director Executive,Director,Executive,United States,Sports,Facilities,2025-06-06,12
+Sandra,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Agriculture,Food Processing,2025-04-10,13
+Carol,Customer,Manager Sales Rep,Manager,Sales,United States,Healthcare Applications,LIS,2025-05-23,14
+Helen,Customer,Manager Product Manager,Manager,Product Management,Switzerland,Business Services,IT Services,2025-05-15,4
+Matthew,Customer,Director Technical Specialist,Director,Technical,United States,Cybersecurity,Threat Intelligence,2025-05-12,13
+Anil,Customer,Manager Sales Rep,Manager,Sales,South Africa,Health Insurance,Member Services,2025-03-10,0
+Jessica,Customer,Manager Executive,Manager,Executive,Belgium,Construction,General Contracting,2025-05-20,0
+Sofia,Customer,VP-Level Operations Manager,VP-Level,Operations,United States,Software,Dev Tools,2025-03-17,12
+Zahra,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Manufacturing,Industrial,2025-04-14,14
+Maria,Customer,Non-Manager Operations Manager,Non-Manager,Operations,United States,Legal,Corporate Legal,2025-05-14,15
+William,Customer,Manager Executive,Manager,Executive,United States,Education,Research,2025-05-20,5
+Gregory,Customer,C-Level Associate,C-Level,Security,Finland,Fashion,Luxury Goods,2025-04-17,0
+Ivan,Customer,Non-Manager Associate,Non-Manager,Education,United States,Pharma,Biotech,2025-05-02,4
+Jacob,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Automotive,EVs,2025-04-09,0
+Nancy,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Software,Enterprise,2025-05-29,6
+Monica,Customer,C-Level Sales Lead,C-Level,Sales,United Kingdom,Education,Research,2025-05-13,10
+Marco,Partner,C-Level Architect,C-Level,Technical,United States,Hospitality,Resorts,2025-05-02,7
+Eric,Customer,Director Executive,Director,Executive,Belgium,HIE,Regional HIE,2025-06-03,8
+Giuseppe,Analyst,Director Associate,Director,Security,Australia,Transportation,Fleet Management,2025-04-29,0
+Mikhail,Prospect,Director Technical Specialist,Director,Technical,United States,Aerospace,Commercial Aviation,2025-05-22,0
+Paul,Customer,Non-Manager Executive,Non-Manager,Executive,India,Manufacturing,Medical Devices,2025-05-16,6
+Anita,Customer,Non-Manager Engineer,Non-Manager,Developer,Brazil,Hospitality,Hotels,2025-06-11,10
+Raj,Customer,Manager Technical Specialist,Manager,Technical,United States,Healthcare Applications,PACS,2025-05-30,7
+Sofia,Customer,Non-Manager Executive,Non-Manager,Executive,France,Transportation,Logistics,2025-06-13,1
+Thomas,Customer,Director Executive,Director,Executive,United States,Business Partner,Consulting,2025-04-28,1
+Anil,Customer,Non-Manager Sales Rep,Non-Manager,Sales,United States,Healthcare Applications,EHR,2025-05-13,0
+Elizabeth,Customer,C-Level Architect,C-Level,Technical,United States,Health Insurance,Member Services,2025-05-22,5
+Jeffrey,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Hospitality,Hotels,2025-06-13,2
+Mikhail,Prospect,C-Level Officer,C-Level,Executive,United States,Government,Public Health,2025-06-20,13
+Ronald,Customer,C-Level Architect,C-Level,Technical,Singapore,Non-Profit,NGO,2025-03-26,2
+Dorothy,Customer,Manager Sales Rep,Manager,Sales,Israel,Automotive,Manufacturing,2025-03-27,11
+George,Prospect,VP-Level Executive,VP-Level,Executive,United States,Healthcare Delivery,Hospitals,2025-06-19,15
+Jonathan,Prospect,Manager Associate,Manager,Finance,Belgium,Insurance,Life,2025-05-21,0
+Raymond,Prospect,Non-Manager Administrator,Non-Manager,Business Administration,United States,Agriculture,AgTech,2025-04-04,13
+Paul,Customer,Non-Manager Clinician,Non-Manager,Clinical,United States,Pharma,Drug Manufacturer,2025-05-16,0
+Helen,Customer,Non-Manager Sales Rep,Non-Manager,Sales,Singapore,Transportation,Fleet Management,2025-04-07,12
+Edward,Customer,C-Level Developer Lead,C-Level,Developer,South Africa,Legal,Law Firms,2025-05-15,8
+Jacob,Prospect,C-Level Administrator,C-Level,Business Administration,United States,Insurance,Property,2025-05-16,6
+Mikhail,Customer,Manager Executive,Manager,Executive,United States,Construction,General Contracting,2025-05-20,3
+Keisha,Customer,Non-Manager Associate,Non-Manager,Education,United States,Business Partner,VAR,2025-05-16,11
+James,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Finance,Accounting,2025-05-20,11
+Alessandro,Customer,Manager Technical Specialist,Manager,Technical,United States,Sports,Leagues,2025-06-17,1
+William,Vendor,Director Technical Specialist,Director,Technical,United States,Fashion,Luxury Goods,2025-05-15,9
+Paul,Prospect,Non-Manager Clinician,Non-Manager,Clinical,United States,Fashion,Apparel,2025-04-07,8
+Elizabeth,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Aerospace,Defense,2025-04-10,5
+Scott,Prospect,Manager Technical Specialist,Manager,Technical,United States,HIE,Regional HIE,2025-05-21,12
+Edward,Customer,C-Level Architect,C-Level,Technical,Belgium,Business Services,IT Services,2025-03-26,15
+Keisha,Indirect Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Finland,Retail,Omnichannel,2025-04-09,14
+Karen,Prospect,C-Level Administrator,C-Level,Business Administration,South Africa,Transportation,Fleet Management,2025-06-10,3
+Lisa,Customer,Non-Manager Engineer,Non-Manager,Developer,Brazil,Hospitality,Resorts,2025-04-01,4
+Matthew,Customer,Director Operations Manager,Director,Operations,United States,Fashion,Apparel,2025-05-15,5
+Zahra,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United Kingdom,AI & ML,Research,2025-05-14,12
+Barbara,Customer,Non-Manager Executive,Non-Manager,Executive,Brazil,AI & ML,Application Development,2025-05-21,7
+Amanda,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Sports,Teams,2025-03-24,0
+Laura,Customer,C-Level Architect,C-Level,Technical,Italy,Legal,Corporate Legal,2025-03-24,4
+Lisa,Customer,Manager Technical Specialist,Manager,Technical,United States,Hospitality,Event Services,2025-06-16,9
+Luca,Customer,Director Executive,Director,Executive,Italy,Finance,Accounting,2025-04-16,15
+Jonathan,Prospect,VP-Level Sales Rep,VP-Level,Sales,United Kingdom,Business Services,Legal,2025-06-12,6
+Anita,Customer,Manager Executive,Manager,Executive,United States,Agriculture,Farming,2025-04-22,3
+Lisa,Customer,C-Level Associate,C-Level,Marketing,United States,Pharma,Biotech,2025-05-22,12
+Thomas,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Education,University,2025-05-23,5
+Steven,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Agriculture,Food Processing,2025-04-09,0
+Giuseppe,Customer,C-Level Developer Lead,C-Level,Developer,United States,Telecom,Network Provider,2025-04-14,14
+Eric,Customer,Manager Engineer,Manager,Developer,Australia,Construction,General Contracting,2025-05-26,4
+Angela,Customer,C-Level Medical Director,C-Level,Clinical,United States,Automotive,Manufacturing,2025-05-05,14
+Betty,Partner,Non-Manager Operations Manager,Non-Manager,Operations,United States,Transportation,Public Transit,2025-04-16,2
+Anthony,Customer,VP-Level Associate,VP-Level,Data Science,United States,Hospitality,Hotels,2025-05-08,7
+Dorothy,Customer,C-Level Officer,C-Level,Executive,Brazil,Legal,Corporate Legal,2025-06-02,3
+Ivan,Customer,Manager Technical Specialist,Manager,Technical,United States,Healthcare Applications,PACS,2025-05-12,12
+Paul,Customer,Director Associate,Director,Customer Success,United States,Business Partner,Consulting,2025-03-21,2
+Anita,Customer,Non-Manager Associate,Non-Manager,Marketing,Belgium,Telecom,Network Provider,2025-05-30,5
+Elena,Customer,VP-Level Executive,VP-Level,Executive,Germany,Business Partner,VAR,2025-04-04,14
+Ronald,Indirect Customer,VP-Level Developer Lead,VP-Level,Developer,Brazil,Cybersecurity,Endpoint Protection,2025-03-21,3
+Pedro,Customer,C-Level Officer,C-Level,Executive,United States,Real Estate,Commercial,2025-05-21,6
+Gregory,Customer,Director Technical Specialist,Director,Technical,United States,HIE,Regional HIE,2025-04-28,0
+Laura,Customer,Non-Manager Executive,Non-Manager,Executive,Belgium,Cybersecurity,Endpoint Protection,2025-03-14,5
+Edward,Customer,C-Level Architect,C-Level,Technical,Israel,Telecom,Network Provider,2025-05-19,6
+James,Customer,Manager Executive,Manager,Executive,United States,Media,Streaming,2025-05-20,3
+John,Prospect,Director Operations Manager,Director,Operations,United Kingdom,Construction,Infrastructure,2025-04-08,8
+Justin,Customer,Manager Associate,Manager,Finance,United States,Software,SaaS,2025-06-16,3
+Jessica,Partner,Manager Operations Manager,Manager,Operations,Finland,Healthcare Delivery,Hospitals,2025-06-17,7
+Rebecca,Customer,Manager Executive,Manager,Executive,United States,Real Estate,Property Management,2025-05-01,11
+Jessica,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Retail,Omnichannel,2025-04-21,0
+Gregory,Customer,Non-Manager Associate,Non-Manager,Customer Success,United States,HIE,Vendor-based HIE,2025-04-11,3
+Karen,Customer,Non-Manager Operations Manager,Non-Manager,Operations,United States,Aerospace,Defense,2025-04-09,0
+Paul,Customer,Manager Operations Manager,Manager,Operations,United States,Cybersecurity,Threat Intelligence,2025-05-26,0
+Donna,Customer,Manager Technical Specialist,Manager,Technical,South Africa,Health Insurance,Member Services,2025-04-23,14
+Monica,Customer,VP-Level Executive,VP-Level,Executive,United States,Legal,Law Firms,2025-04-03,8
+Sofia,Customer,Manager Executive,Manager,Executive,United States,HIE,Regional HIE,2025-05-28,11
+Mark,Prospect,C-Level Architect,C-Level,Technical,Germany,Construction,Infrastructure,2025-05-13,13
+Rafael,Customer,C-Level Architect,C-Level,Technical,South Africa,Business Partner,VAR,2025-05-06,0
+Michael,Customer,C-Level Officer,C-Level,Executive,United States,Health Insurance,Payer,2025-05-23,1
+Jennifer,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Healthcare Delivery,Clinics,2025-05-07,11
+Carol,Customer,Director Executive,Director,Executive,United States,Automotive,EVs,2025-04-23,6
+Chloe,Customer,Manager Associate,Manager,Education,United States,Manufacturing,Medical Devices,2025-05-26,7
+Maria,Prospect,C-Level Associate,C-Level,Marketing,United States,Hospitality,Hotels,2025-05-28,2
+Gary,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Business Partner,Consulting,2025-05-29,10
+Dorothy,Customer,Manager Clinician,Manager,Clinical,Italy,Automotive,Dealerships,2025-05-16,2
+Frank,Customer,C-Level Architect,C-Level,Technical,United States,Sports,Leagues,2025-05-22,10
+Monica,Customer,Non-Manager Product Manager,Non-Manager,Product Management,United States,Energy,Utilities,2025-05-30,12
+William,Customer,C-Level Officer,C-Level,Executive,United States,Sports,Leagues,2025-05-21,7
+Anita,Customer,C-Level COO,C-Level,Operations,United States,Government,Federal Agency,2025-04-22,12
+Zahra,Customer,Non-Manager Executive,Non-Manager,Executive,Belgium,Construction,General Contracting,2025-05-08,0
+Gregory,Customer,Manager Technical Specialist,Manager,Technical,Italy,Hospitality,Event Services,2025-04-24,1
+Nancy,Customer,C-Level Architect,C-Level,Technical,Kenya,Retail,E-Commerce,2025-04-22,7
+Helen,Customer,VP-Level Executive,VP-Level,Executive,United States,Agriculture,Food Processing,2025-05-13,0
+John,Customer,Manager Executive,Manager,Executive,Brazil,Fashion,Footwear,2025-05-13,4
+Larry,Customer,C-Level Officer,C-Level,Executive,United States,Business Partner,VAR,2025-04-14,15
+Alexander,Customer,Director Administrator,Director,Business Administration,United States,Agriculture,Farming,2025-05-26,6
+David,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Government,Public Health,2025-04-24,10
+Mikhail,Prospect,C-Level Architect,C-Level,Technical,Israel,Fashion,Footwear,2025-05-12,8
+Donna,Customer,Director Technical Specialist,Director,Technical,United States,Telecom,Mobile Operator,2025-06-11,8
+Justin,Customer,Director Administrator,Director,Business Administration,Italy,Business Services,Marketing,2025-04-04,9
+Marco,Customer,C-Level Product Manager,C-Level,Product Management,United States,Healthcare Delivery,Telehealth Providers,2025-04-14,3
+Nicholas,Customer,Director Technical Specialist,Director,Technical,United States,Government,Federal Agency,2025-06-06,11
+Anil,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Business Services,IT Services,2025-04-14,2
+Barbara,Indirect Customer,C-Level Architect,C-Level,Technical,United States,Business Partner,Consulting,2025-06-09,12
+John,Analyst,VP-Level Technical Specialist,VP-Level,Technical,United States,Finance,Banking,2025-06-02,11
+Lisa,Customer,Manager Technical Specialist,Manager,Technical,Italy,Transportation,Fleet Management,2025-04-07,3
+Gregory,Customer,VP-Level Executive,VP-Level,Executive,United States,Non-Profit,Charity,2025-04-08,0
+Rafael,Indirect Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Health Insurance,Claims Processing,2025-04-08,0
+Frank,Customer,C-Level Architect,C-Level,Technical,United States,Sports,Leagues,2025-05-21,4
+Donna,Customer,C-Level Officer,C-Level,Executive,United States,Pharma,Biotech,2025-05-20,8
+Michelle,Customer,C-Level Architect,C-Level,Technical,United States,Insurance,Property,2025-05-27,5
+Johann,Customer,Manager Technical Specialist,Manager,Technical,United States,Non-Profit,Charity,2025-04-23,2
+Mikhail,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Real Estate,Residential,2025-05-21,15
+Lisa,Customer,Non-Manager Executive,Non-Manager,Executive,Brazil,Real Estate,Residential,2025-05-21,15
+Andrei,Prospect,Non-Manager Sales Rep,Non-Manager,Sales,United States,Hospitality,Hotels,2025-05-19,7
+Anna,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Singapore,Healthcare Delivery,Clinics,2025-04-29,12
+Richard,Customer,Non-Manager Operations Manager,Non-Manager,Operations,United States,Sports,Leagues,2025-05-01,11
+Mark,Customer,Non-Manager Associate,Non-Manager,Support,United States,Health Insurance,Member Services,2025-03-28,0
+William,Customer,C-Level Officer,C-Level,Executive,United States,Healthcare Applications,Clinical Decision Support,2025-06-10,0
+Anthony,Customer,C-Level Architect,C-Level,Technical,Finland,Education,University,2025-05-01,0
+David,Prospect,Non-Manager Engineer,Non-Manager,Developer,Brazil,Sports,Leagues,2025-05-15,5
+Scott,Customer,Manager Technical Specialist,Manager,Technical,Brazil,Government,Federal Agency,2025-05-19,7
+David,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,Singapore,Transportation,Logistics,2025-05-21,12
+Larry,Customer,Director Executive,Director,Executive,Germany,Sports,Leagues,2025-05-27,8
+Stephanie,Customer,Non-Manager Executive,Non-Manager,Executive,Australia,Automotive,EVs,2025-03-28,13
+Helen,Prospect,Manager Executive,Manager,Executive,United States,Aerospace,Commercial Aviation,2025-04-11,0
+Linda,Customer,Director Executive,Director,Executive,Singapore,Fashion,Luxury Goods,2025-05-14,5
+Gregory,Customer,C-Level Architect,C-Level,Technical,United States,Software,Enterprise,2025-04-22,4
+Larry,Customer,C-Level Architect,C-Level,Technical,United States,Government,Local Government,2025-04-24,10
+Kevin,Analyst,C-Level Architect,C-Level,Technical,United States,Pharma,Biotech,2025-05-02,6
+Alessandro,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Automotive,Manufacturing,2025-04-17,5
+Zahra,Prospect,Director Technical Specialist,Director,Technical,Japan,Agriculture,AgTech,2025-05-20,1
+Brian,Customer,Manager Technical Specialist,Manager,Technical,United States,Legal,Corporate Legal,2025-06-18,3
+Anna,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Software,Enterprise,2025-04-09,4
+Sandra,Customer,C-Level Architect,C-Level,Technical,United States,Government,Public Health,2025-05-23,10
+Daniel,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Manufacturing,Medical Devices,2025-05-07,6
+Helen,Customer,VP-Level Developer Lead,VP-Level,Developer,United States,Telecom,Network Provider,2025-05-26,0
+Kevin,Customer,Director Associate,Director,Education,Brazil,Telecom,Mobile Operator,2025-03-10,15
+Kevin,Customer,Director Technical Specialist,Director,Technical,United Kingdom,Real Estate,Property Management,2025-04-29,0
+Robert,Customer,Director Technical Specialist,Director,Technical,Switzerland,Media,Streaming,2025-05-28,12
+Marco,Partner,Director Executive,Director,Executive,Brazil,Manufacturing,Medical Devices,2025-05-02,14
+Gregory,Customer,Director Executive,Director,Executive,India,Fashion,Apparel,2025-05-05,5
+Larry,Prospect,Director Operations Manager,Director,Operations,United States,Construction,General Contracting,2025-04-21,4
+William,Customer,Manager Technical Specialist,Manager,Technical,United States,Sports,Facilities,2025-05-07,1
+Jason,Partner,Director Executive,Director,Executive,United States,Cybersecurity,Endpoint Protection,2025-06-12,15
+Nicholas,Customer,Director Developer Lead,Director,Developer,Finland,Fashion,Luxury Goods,2025-05-09,2
+Dorothy,Customer,Director Associate,Director,Security,Israel,Healthcare Delivery,Telehealth Providers,2025-04-03,0
+Nancy,Customer,Director Technical Specialist,Director,Technical,United States,Aerospace,Commercial Aviation,2025-05-13,8
+Amanda,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Government,Public Health,2025-05-19,8
+Helen,Customer,Director Executive,Director,Executive,France,Education,Research,2025-05-16,6
+Anthony,Customer,Director Executive,Director,Executive,United States,Real Estate,Property Management,2025-06-06,13
+Gregory,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Energy,Utilities,2025-06-12,12
+Samuel,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Germany,Cybersecurity,Threat Intelligence,2025-05-16,0
+John,Customer,Director Technical Specialist,Director,Technical,United States,Fashion,Apparel,2025-05-19,10
+Kimberly,Customer,Director Technical Specialist,Director,Technical,United States,Insurance,Property,2025-06-19,5
+John,Customer,Non-Manager Administrator,Non-Manager,Business Administration,United States,Healthcare Applications,PACS,2025-05-21,10
+Rebecca,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Belgium,Cybersecurity,Endpoint Protection,2025-05-13,14
+Luca,Vendor,Director Developer Lead,Director,Developer,United States,Non-Profit,NGO,2025-05-23,2
+Charles,Customer,Manager Engineer,Manager,Developer,United States,Telecom,Mobile Operator,2025-03-10,10
+Samuel,Customer,Manager Engineer,Manager,Developer,United States,HIE,Vendor-based HIE,2025-05-27,9
+Larry,Customer,,,Executive,United States,Health Insurance,Claims Processing,2025-06-02,0
+Laura,Prospect,Director Clinician,Director,Clinical,United States,Telecom,Network Provider,2025-04-17,13
+Matthew,Customer,C-Level Associate,C-Level,Support,Germany,Government,Public Health,2025-05-02,0
+Carol,Customer,C-Level Architect,C-Level,Technical,Kenya,Insurance,Auto,2025-05-02,0
+Mikhail,Customer,Manager Associate,Manager,Marketing,United Kingdom,Business Services,Marketing,2025-04-10,15
+Giuseppe,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Cybersecurity,Threat Intelligence,2025-03-10,15
+Anthony,Customer,Director Technical Specialist,Director,Technical,Israel,Healthcare Applications,PACS,2025-06-16,10
+Pedro,Partner,Director Technical Specialist,Director,Technical,United States,Legal,Law Firms,2025-05-08,2
+Mark,Customer,C-Level Officer,C-Level,Executive,United States,Agriculture,Farming,2025-05-12,13
+Dorothy,Analyst,C-Level Architect,C-Level,Technical,United States,Hospitality,Hotels,2025-06-04,10
+Linda,Customer,Director Product Manager,Director,Product Management,France,Legal,Corporate Legal,2025-04-23,11
+Edward,Customer,Non-Manager Operations Manager,Non-Manager,Operations,Brazil,Insurance,Property,2025-04-28,0
+Monica,Customer,Director Operations Manager,Director,Operations,United States,Software,SaaS,2025-05-23,3
+Donald,Customer,Non-Manager Engineer,Non-Manager,Developer,Singapore,Pharma,Drug Manufacturer,2025-05-13,0
+Larry,Customer,Manager Technical Specialist,Manager,Technical,United States,Education,University,2025-05-09,7
+Lisa,Customer,Director Operations Manager,Director,Operations,Kenya,Insurance,Property,2025-05-30,0
+Mark,Customer,C-Level Officer,C-Level,Executive,United States,Hospitality,Event Services,2025-04-08,6
+Alessandro,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Hospitality,Event Services,2025-04-16,13
+Nicholas,Indirect Customer,C-Level Developer Lead,C-Level,Developer,United States,Legal,Corporate Legal,2025-04-29,4
+Anita,Customer,C-Level Architect,C-Level,Technical,Israel,Retail,Omnichannel,2025-04-02,11
+Tunde,Customer,Director Executive,Director,Executive,United Kingdom,Manufacturing,Industrial,2025-06-17,9
+David,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Software,Enterprise,2025-03-19,9
+Marco,Vendor,Director Technical Specialist,Director,Technical,United States,Energy,Oil & Gas,2025-04-10,12
+Zahra,Customer,Non-Manager Associate,Non-Manager,Marketing,United States,Hospitality,Hotels,2025-06-02,15
+Mikhail,Customer,C-Level Developer Lead,C-Level,Developer,United States,Media,Streaming,2025-05-29,10
+Anthony,Customer,Manager Associate,Manager,Education,Finland,Insurance,Life,2025-05-12,3
+Elizabeth,Customer,Non-Manager Executive,Non-Manager,Executive,United Kingdom,Construction,General Contracting,2025-04-15,9
+Edward,Customer,VP-Level Developer Lead,VP-Level,Developer,United States,Automotive,Dealerships,2025-05-30,0
+Rebecca,Prospect,C-Level Officer,C-Level,Executive,United States,Education,Training Org,2025-05-06,2
+Linda,Customer,C-Level Developer Lead,C-Level,Developer,United States,Health Insurance,Claims Processing,2025-05-28,8
+Anil,Customer,C-Level Officer,C-Level,Executive,United States,Retail,Omnichannel,2025-04-02,9
+Zahra,Customer,Non-Manager Administrator,Non-Manager,Business Administration,United States,Construction,General Contracting,2025-03-18,5
+Ronald,Customer,VP-Level Executive,VP-Level,Executive,United States,Government,Federal Agency,2025-05-26,9
+Anthony,Customer,VP-Level Executive,VP-Level,Executive,United States,Healthcare Applications,PACS,2025-06-11,7
+Zahra,Customer,Manager Executive,Manager,Executive,United States,Non-Profit,NGO,2025-05-01,11
+Edward,Customer,C-Level Developer Lead,C-Level,Developer,Japan,Energy,Renewable Energy,2025-05-21,5
+Tunde,Partner,Non-Manager Executive,Non-Manager,Executive,United States,Legal,Corporate Legal,2025-05-06,15
+Anna,Vendor,Manager Operations Manager,Manager,Operations,Finland,Business Services,Legal,2025-03-20,0
+Linda,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Hospitality,Resorts,2025-04-18,4
+Paul,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Healthcare Delivery,Clinics,2025-04-23,0
+Karen,Customer,Director Clinician,Director,Clinical,United States,AI & ML,Research,2025-06-18,8
+Lisa,Partner,Manager Engineer,Manager,Developer,United States,HIE,National HIE,2025-05-08,13
+Lisa,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Agriculture,AgTech,2025-03-20,6
+Melissa,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,HIE,Regional HIE,2025-04-09,3
+Nicholas,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Automotive,Dealerships,2025-04-14,0
+Gregory,Customer,C-Level Developer Lead,C-Level,Developer,United States,Fashion,Footwear,2025-04-24,0
+Fatima,Partner,C-Level Officer,C-Level,Executive,United States,Energy,Utilities,2025-04-23,13
+Lisa,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Automotive,Manufacturing,2025-06-11,3
+Paul,Customer,Non-Manager Operations Manager,Non-Manager,Operations,United Kingdom,Energy,Renewable Energy,2025-03-27,2
+Matthew,Customer,Manager Technical Specialist,Manager,Technical,United States,Construction,Infrastructure,2025-05-29,4
+Larry,Customer,C-Level Architect,C-Level,Technical,United States,Automotive,EVs,2025-04-14,10
+Angela,Customer,Non-Manager Sales Rep,Non-Manager,Sales,United States,Telecom,Mobile Operator,2025-06-06,4
+Mark,Customer,C-Level Officer,C-Level,Executive,United States,Retail,E-Commerce,2025-06-03,0
+Raj,Customer,C-Level Medical Director,C-Level,Clinical,United States,Media,Streaming,2025-05-14,12
+Donald,Vendor,Director Executive,Director,Executive,Australia,Fashion,Apparel,2025-05-22,11
+Thomas,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Retail,Omnichannel,2025-05-12,11
+Giuseppe,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,Singapore,Manufacturing,Industrial,2025-06-19,10
+Matthew,Customer,Manager Technical Specialist,Manager,Technical,United States,Government,Public Health,2025-04-23,0
+Zahra,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Healthcare Delivery,Clinics,2025-05-28,14
+Jonathan,Prospect,Manager Technical Specialist,Manager,Technical,United States,Telecom,Mobile Operator,2025-05-30,9
+Dorothy,Customer,Director Technical Specialist,Director,Technical,United States,Cybersecurity,Endpoint Protection,2025-05-19,10
+Betty,Prospect,Manager Associate,Manager,Marketing,United States,Media,Streaming,2025-05-02,13
+Linda,Prospect,Non-Manager Product Manager,Non-Manager,Product Management,Germany,Insurance,Property,2025-05-16,8
+Michael,Customer,Director Technical Specialist,Director,Technical,United States,Business Services,Legal,2025-05-09,7
+Elizabeth,Customer,VP-Level Administrator,VP-Level,Business Administration,United States,Business Partner,Consulting,2025-04-24,12
+Linda,Customer,Manager Engineer,Manager,Developer,Brazil,Fashion,Footwear,2025-04-11,0
+Mikhail,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Manufacturing,Industrial,2025-04-18,0
+Nicholas,Customer,C-Level Officer,C-Level,Executive,Kenya,Sports,Teams,2025-06-20,0
+Paul,Vendor,C-Level Architect,C-Level,Technical,United Kingdom,Transportation,Public Transit,2025-04-17,0
+Michelle,Customer,Director Developer Lead,Director,Developer,Italy,Hospitality,Resorts,2025-05-14,13
+Raj,Customer,Director Executive,Director,Executive,United States,Media,Streaming,2025-05-29,14
+Pedro,Customer,Director Technical Specialist,Director,Technical,United States,Agriculture,Farming,2025-06-18,0
+Elena,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Mexico,Automotive,Dealerships,2025-05-14,4
+Marco,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,Brazil,Non-Profit,Advocacy,2025-04-01,0
+Jacob,Customer,Manager Sales Rep,Manager,Sales,United States,Cybersecurity,Endpoint Protection,2025-06-13,5
+Anthony,Customer,C-Level Product Manager,C-Level,Product Management,Australia,Agriculture,Food Processing,2025-05-05,1
+Nancy,Customer,VP-Level Product Manager,VP-Level,Product Management,United States,Finance,Banking,2025-03-27,5
+Raj,Partner,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Aerospace,Defense,2025-05-20,6
+Michelle,Prospect,C-Level Officer,C-Level,Executive,United States,Government,Federal Agency,2025-04-24,0
+Raymond,Prospect,Manager Engineer,Manager,Developer,South Africa,Aerospace,Commercial Aviation,2025-04-24,15
+Anthony,Customer,C-Level Medical Director,C-Level,Clinical,United States,Construction,General Contracting,2025-05-22,13
+Margaret,Customer,VP-Level Product Manager,VP-Level,Product Management,United States,Non-Profit,NGO,2025-04-01,1
+George,Customer,VP-Level Developer Lead,VP-Level,Developer,Brazil,AI & ML,Research,2025-05-05,13
+Edward,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Finance,Banking,2025-05-15,15
+Margaret,Customer,Director Executive,Director,Executive,Australia,Energy,Oil & Gas,2025-04-11,1
+Carol,Customer,C-Level Sales Lead,C-Level,Sales,United States,Non-Profit,NGO,2025-04-15,0
+Ivan,Indirect Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Insurance,Life,2025-05-29,2
+Edward,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,Brazil,Insurance,Property,2025-04-18,0
+Mark,Prospect,Director Associate,Director,Strategy,Kenya,Construction,Infrastructure,2025-05-23,6
+Marco,Analyst,C-Level Architect,C-Level,Technical,Australia,Manufacturing,Industrial,2025-04-17,3
+Jacob,Customer,C-Level Architect,C-Level,Technical,United States,Manufacturing,Industrial,2025-05-21,14
+Elena,Customer,C-Level Architect,C-Level,Technical,United States,Healthcare Applications,EHR,2025-04-17,13
+Luca,Customer,Non-Manager Product Manager,Non-Manager,Product Management,United States,Manufacturing,Medical Devices,2025-06-09,9
+Monica,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Sports,Teams,2025-03-27,8
+Pedro,Customer,Manager Executive,Manager,Executive,United States,Non-Profit,NGO,2025-06-12,6
+Michael,Customer,Non-Manager Clinician,Non-Manager,Clinical,South Africa,Aerospace,Commercial Aviation,2025-04-14,0
+Raj,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Software,SaaS,2025-03-17,4
+Nicholas,Customer,C-Level Officer,C-Level,Executive,France,Health Insurance,Claims Processing,2025-05-13,14
+Donna,Customer,Non-Manager Executive,Non-Manager,Executive,France,Healthcare Applications,EHR,2025-05-12,11
+Michelle,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Kenya,Insurance,Property,2025-05-06,1
+Karen,Customer,C-Level Developer Lead,C-Level,Developer,United States,Cybersecurity,Threat Intelligence,2025-05-16,0
+Anna,Prospect,C-Level Officer,C-Level,Executive,Italy,Retail,E-Commerce,2025-03-12,2
+Olu,Prospect,Manager Operations Manager,Manager,Operations,United States,Business Services,Legal,2025-06-19,6
+Alessandro,Prospect,VP-Level Developer Lead,VP-Level,Developer,United States,Sports,Teams,2025-05-27,10
+Matthew,Customer,C-Level Officer,C-Level,Executive,Brazil,Real Estate,Residential,2025-05-09,0
+Sofia,Customer,Non-Manager Product Manager,Non-Manager,Product Management,Australia,Business Partner,Reseller,2025-03-14,5
+Richard,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Software,Dev Tools,2025-05-14,11
+Edward,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United Kingdom,Hospitality,Hotels,2025-05-29,10
+Paul,Prospect,Director Executive,Director,Executive,United States,Healthcare Delivery,Clinics,2025-06-19,8
+Jennifer,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Software,Dev Tools,2025-06-13,11
+Alexander,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Brazil,Finance,Investment,2025-05-29,8
+Jacob,Customer,C-Level Developer Lead,C-Level,Developer,United States,HIE,Regional HIE,2025-03-12,8
+Benjamin,Prospect,Manager Technical Specialist,Manager,Technical,Australia,Insurance,Life,2025-04-10,0
+Karen,Customer,Director Technical Specialist,Director,Technical,Finland,Healthcare Delivery,Telehealth Providers,2025-06-06,0
+Lisa,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Retail,E-Commerce,2025-06-09,11
+Jason,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Sports,Leagues,2025-05-09,12
+Richard,Customer,C-Level Developer Lead,C-Level,Developer,Israel,Cybersecurity,Threat Intelligence,2025-06-18,11
+Benjamin,Customer,Manager Executive,Manager,Executive,United States,Pharma,Drug Manufacturer,2025-05-26,14
+Stephanie,Analyst,C-Level Architect,C-Level,Technical,United States,Legal,Law Firms,2025-05-07,7
+Eric,Customer,Director Developer Lead,Director,Developer,Brazil,Healthcare Delivery,Clinics,2025-05-14,0
+Lisa,Customer,Director Executive,Director,Executive,United States,Health Insurance,Payer,2025-05-27,0
+Gregory,Prospect,Non-Manager Associate,Non-Manager,Support,United States,Retail,E-Commerce,2025-05-15,6
+Linda,Customer,Manager Engineer,Manager,Developer,Belgium,Healthcare Delivery,Telehealth Providers,2025-03-26,12
+Dorothy,Customer,VP-Level Technical Specialist,VP-Level,Technical,Italy,Automotive,Manufacturing,2025-04-07,9
+Stephanie,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Manufacturing,Industrial,2025-04-24,0
+Mikhail,Customer,Non-Manager Executive,Non-Manager,Executive,Australia,HIE,National HIE,2025-03-12,14
+Rachel,Partner,VP-Level Developer Lead,VP-Level,Developer,United Kingdom,Business Services,Legal,2025-05-01,10
+Matthew,Customer,Director Executive,Director,Executive,United States,Fashion,Footwear,2025-05-28,5
+Mikhail,Customer,Non-Manager Executive,Non-Manager,Executive,Israel,Fashion,Apparel,2025-06-12,0
+James,Customer,VP-Level Developer Lead,VP-Level,Developer,Israel,Software,Enterprise,2025-04-24,0
+Paul,Customer,Manager Technical Specialist,Manager,Technical,United States,Legal,Law Firms,2025-05-22,1
+Benjamin,Customer,C-Level Developer Lead,C-Level,Developer,Italy,Sports,Facilities,2025-05-09,15
+Anita,Customer,Director Technical Specialist,Director,Technical,Brazil,Sports,Leagues,2025-05-13,5
+Mark,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Finance,Banking,2025-04-24,3
+Zahra,Prospect,Manager Sales Rep,Manager,Sales,United States,Agriculture,Food Processing,2025-04-04,0
+Paul,Customer,Manager Product Manager,Manager,Product Management,United States,Business Services,Marketing,2025-04-24,12
+Andrei,Indirect Customer,Manager Operations Manager,Manager,Operations,United States,Cybersecurity,Endpoint Protection,2025-05-29,6
+Larry,Customer,C-Level Officer,C-Level,Executive,Japan,Education,Training Org,2025-06-16,3
+Melissa,Customer,Manager Technical Specialist,Manager,Technical,United States,Non-Profit,Advocacy,2025-03-26,2
+Paul,Customer,C-Level Officer,C-Level,Executive,United States,Telecom,Mobile Operator,2025-05-08,4
+Fatima,Customer,VP-Level Administrator,VP-Level,Business Administration,United States,Real Estate,Residential,2025-06-04,7
+Brian,Customer,Manager Sales Rep,Manager,Sales,United States,Healthcare Applications,PACS,2025-05-28,13
+Kevin,Customer,C-Level Architect,C-Level,Technical,United States,Retail,Omnichannel,2025-05-15,13
+Nancy,Partner,Manager Engineer,Manager,Developer,United Kingdom,Insurance,Property,2025-04-28,2
+Giuseppe,Indirect Customer,C-Level Product Manager,C-Level,Product Management,Switzerland,Legal,Law Firms,2025-05-21,10
+Paul,Prospect,Non-Manager Engineer,Non-Manager,Developer,United States,Retail,Omnichannel,2025-04-29,0
+Gary,Customer,Director Developer Lead,Director,Developer,Germany,Education,Training Org,2025-05-26,10
+Sofia,Customer,C-Level Associate,C-Level,,Israel,Sports,Leagues,2025-05-19,11
+Steven,Analyst,VP-Level Associate,VP-Level,Legal,United States,Aerospace,Commercial Aviation,2025-03-20,8
+Jason,Customer,Manager Operations Manager,Manager,Operations,Brazil,Legal,Law Firms,2025-05-22,0
+Anthony,Customer,C-Level Product Manager,C-Level,Product Management,United States,Insurance,Life,2025-03-17,15
+Monica,Customer,VP-Level Executive,VP-Level,Executive,United States,Construction,General Contracting,2025-05-29,0
+Tunde,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Education,Training Org,2025-04-21,6
+Tunde,Customer,Manager Associate,Manager,Data Science,United States,HIE,National HIE,2025-05-15,11
+William,Customer,C-Level Associate,C-Level,Strategy,South Africa,Automotive,EVs,2025-06-16,9
+Zahra,Customer,Manager Administrator,Manager,Business Administration,United States,Retail,E-Commerce,2025-04-03,0
+Robert,Customer,Director Executive,Director,Executive,Germany,Insurance,Property,2025-06-18,0
+Frank,Customer,C-Level Sales Lead,C-Level,Sales,United States,Sports,Teams,2025-04-11,10
+Frank,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Automotive,Dealerships,2025-03-25,9
+Benjamin,Prospect,C-Level Officer,C-Level,Executive,United States,Healthcare Applications,EHR,2025-05-13,4
+Anil,Indirect Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Healthcare Delivery,Telehealth Providers,2025-06-17,11
+Jessica,Prospect,Manager Technical Specialist,Manager,Technical,United States,Media,Broadcasting,2025-05-08,4
+Lisa,Partner,Director Technical Specialist,Director,Technical,United States,Legal,Law Firms,2025-06-06,8
+Jason,Analyst,Non-Manager Operations Manager,Non-Manager,Operations,Brazil,Software,Enterprise,2025-05-09,7
+Johann,Prospect,Non-Manager Engineer,Non-Manager,Developer,United States,Energy,Utilities,2025-05-27,1
+Patrick,Customer,Director Executive,Director,Executive,United States,Hospitality,Resorts,2025-06-02,13
+Benjamin,Indirect Customer,VP-Level Operations Manager,VP-Level,Operations,Belgium,Insurance,Auto,2025-04-08,0
+Amanda,Customer,Manager Technical Specialist,Manager,Technical,United States,Construction,General Contracting,2025-05-01,2
+Carol,Customer,VP-Level Associate,VP-Level,Legal,United States,Legal,Corporate Legal,2025-06-10,11
+Keisha,Prospect,Manager Technical Specialist,Manager,Technical,Australia,Aerospace,Commercial Aviation,2025-05-22,6
+Nicholas,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,Mexico,Energy,Renewable Energy,2025-03-26,13
+Kevin,Customer,Non-Manager Administrator,Non-Manager,Business Administration,United States,Healthcare Applications,EHR,2025-03-24,0
+Richard,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Healthcare Delivery,Hospitals,2025-05-23,13
+Matthew,Customer,Director Executive,Director,Executive,United States,Real Estate,Property Management,2025-06-06,0
+Mikhail,Customer,Non-Manager Clinician,Non-Manager,Clinical,United States,Sports,Leagues,2025-03-27,5
+Deborah,Prospect,Non-Manager Engineer,Non-Manager,Developer,United States,Agriculture,AgTech,2025-05-14,14
+Karen,Customer,Manager Sales Rep,Manager,Sales,United States,HIE,Regional HIE,2025-05-23,6
+Rebecca,Customer,VP-Level Technical Specialist,VP-Level,Technical,United States,Healthcare Applications,PACS,2025-05-12,0
+Jessica,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Legal,Corporate Legal,2025-05-13,15
+Donald,Customer,Manager Engineer,Manager,Developer,United States,Education,Research,2025-05-29,0
+Nancy,Customer,Non-Manager Executive,Non-Manager,Executive,Finland,Health Insurance,Member Services,2025-03-26,14
+Luca,Customer,Director Technical Specialist,Director,Technical,United States,Non-Profit,Charity,2025-05-21,6
+Anthony,Prospect,Non-Manager Product Manager,Non-Manager,Product Management,United States,Transportation,Logistics,2025-05-06,10
+Andrei,Customer,,,Product Management,United States,Aerospace,Defense,2025-05-27,5
+Larry,Customer,Manager Technical Specialist,Manager,Technical,United States,Telecom,Network Provider,2025-04-11,7
+Susan,Customer,Manager Engineer,Manager,Developer,United States,Hospitality,Resorts,2025-05-08,9
+Fatima,Customer,C-Level Architect,C-Level,Technical,Brazil,Fashion,Footwear,2025-05-13,7
+Cynthia,Customer,Manager Technical Specialist,Manager,Technical,United States,Telecom,Network Provider,2025-05-07,7
+Gregory,Customer,Director Executive,Director,Executive,United States,Business Services,Legal,2025-04-04,0
+Karen,Prospect,Non-Manager Executive,Non-Manager,Executive,United States,Government,Local Government,2025-04-03,13
+Frank,Prospect,Non-Manager Associate,Non-Manager,Security,United States,HIE,National HIE,2025-04-09,1
+Lisa,Customer,Non-Manager Associate,Non-Manager,Data Science,United States,Insurance,Auto,2025-06-20,7
+Fatima,Customer,Director Technical Specialist,Director,Technical,United States,AI & ML,Research,2025-05-15,2
+Tunde,Partner,Non-Manager Operations Manager,Non-Manager,Operations,Australia,Energy,Utilities,2025-04-29,0
+Michelle,Customer,Director Associate,Director,Marketing,United Kingdom,Fashion,Luxury Goods,2025-05-28,0
+David,Customer,C-Level Architect,C-Level,Technical,United States,Sports,Teams,2025-04-15,6
+Richard,Customer,Manager Engineer,Manager,Developer,India,Insurance,Life,2025-05-22,1
+Linda,Customer,VP-Level Developer Lead,VP-Level,Developer,South Africa,Construction,General Contracting,2025-05-07,14
+Raj,Customer,Director Associate,Director,Strategy,United States,Fashion,Apparel,2025-04-23,10
+Helen,Customer,VP-Level Executive,VP-Level,Executive,Singapore,Education,University,2025-06-17,0
+Jacob,Customer,Non-Manager Engineer,Non-Manager,Developer,Australia,Pharma,Drug Manufacturer,2025-03-17,8
+Marco,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Pharma,Drug Manufacturer,2025-05-20,6
+Jeffrey,Prospect,Non-Manager Engineer,Non-Manager,Developer,United Kingdom,Retail,E-Commerce,2025-05-14,0
+Charles,Customer,Non-Manager Associate,Non-Manager,Customer Success,United States,Hospitality,Resorts,2025-03-21,15
+Monica,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Media,Publishing,2025-04-22,15
+Kevin,Customer,Director Developer Lead,Director,Developer,South Africa,Automotive,Manufacturing,2025-04-04,13
+Helen,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Business Partner,Consulting,2025-05-30,8
+Brian,Customer,Director Technical Specialist,Director,Technical,United States,Hospitality,Event Services,2025-03-10,14
+Alessandro,Customer,C-Level Officer,C-Level,Executive,Australia,Cybersecurity,Endpoint Protection,2025-05-21,0
+Fatima,Prospect,Non-Manager Operations Manager,Non-Manager,Operations,Australia,Manufacturing,Industrial,2025-05-16,5
+Elena,Vendor,Non-Manager Technical Specialist,Non-Manager,Technical,United States,HIE,National HIE,2025-04-02,11
+Michael,Vendor,Manager Executive,Manager,Executive,United States,Transportation,Public Transit,2025-05-05,13
+Monica,Customer,Manager Executive,Manager,Executive,United States,Real Estate,Commercial,2025-04-28,1
+John,Customer,Director Associate,Director,Support,United States,Manufacturing,Industrial,2025-06-19,0
+Anthony,Customer,Director Developer Lead,Director,Developer,Kenya,Insurance,Life,2025-05-14,12
+Justin,Customer,Director Executive,Director,Executive,United States,Legal,Corporate Legal,2025-06-19,12
+Edward,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Retail,E-Commerce,2025-06-19,3
+Paul,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Italy,Healthcare Applications,LIS,2025-04-09,11
+Angela,Customer,Manager Technical Specialist,Manager,Technical,Finland,Transportation,Public Transit,2025-05-23,13
+Johann,Customer,Non-Manager Engineer,Non-Manager,Developer,United States,Healthcare Delivery,Clinics,2025-04-22,5
+Jason,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Legal,Law Firms,2025-03-14,2
+Sofia,Customer,Director Developer Lead,Director,Developer,Mexico,Software,Enterprise,2025-06-11,3
+David,Customer,C-Level Associate,C-Level,Support,Brazil,Retail,Brick & Mortar,2025-03-25,8
+Ivan,Customer,VP-Level Developer Lead,VP-Level,Developer,Singapore,Automotive,Manufacturing,2025-03-21,6
+Melissa,Customer,C-Level Associate,C-Level,Data Science,Israel,Manufacturing,Industrial,2025-04-23,7
+Edward,Customer,C-Level Officer,C-Level,Executive,United States,Pharma,Drug Manufacturer,2025-05-20,12
+Sarah,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,Brazil,Fashion,Luxury Goods,2025-05-16,12
+Jason,Customer,Non-Manager Sales Rep,Non-Manager,Sales,United States,Manufacturing,Medical Devices,2025-05-06,0
+Jacob,Customer,VP-Level Developer Lead,VP-Level,Developer,Brazil,Agriculture,AgTech,2025-05-08,0
+Thomas,Customer,Manager Associate,Manager,Support,United States,HIE,Regional HIE,2025-04-17,13
+Ronald,Customer,Manager Executive,Manager,Executive,Singapore,Energy,Oil & Gas,2025-03-19,5
+William,Customer,Director Administrator,Director,Business Administration,United States,Software,SaaS,2025-05-14,1
+Patrick,Customer,Director Developer Lead,Director,Developer,United States,Agriculture,Food Processing,2025-05-20,11
+Gregory,Customer,C-Level COO,C-Level,Operations,United States,Insurance,Life,2025-03-28,10
+Mark,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Construction,Infrastructure,2025-05-27,7
+Nancy,Customer,Director Executive,Director,Executive,United States,Software,Dev Tools,2025-04-02,0
+Gary,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Hospitality,Event Services,2025-04-23,13
+Frank,Customer,C-Level Developer Lead,C-Level,Developer,United States,Agriculture,AgTech,2025-06-03,4
+Ronald,Prospect,Manager Executive,Manager,Executive,United States,Business Partner,Consulting,2025-05-16,13
+Karen,Customer,Manager Sales Rep,Manager,Sales,France,Healthcare Applications,Clinical Decision Support,2025-05-13,8
+Kevin,Customer,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Education,University,2025-05-16,2
+John,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Retail,E-Commerce,2025-04-25,11
+Giuseppe,Customer,Director Associate,Director,Data Science,United States,Hospitality,Event Services,2025-04-01,15
+Luca,Prospect,VP-Level Technical Specialist,VP-Level,Technical,Brazil,Aerospace,Commercial Aviation,2025-06-16,5
+Elizabeth,Customer,Non-Manager Operations Manager,Non-Manager,Operations,United States,Government,Federal Agency,2025-05-27,8
+Frank,Customer,Director Technical Specialist,Director,Technical,France,Telecom,Mobile Operator,2025-04-23,9
+Jason,Customer,Non-Manager Executive,Non-Manager,Executive,United States,Business Services,Marketing,2025-04-21,12
+Rebecca,Prospect,C-Level Developer Lead,C-Level,Developer,United States,HIE,Vendor-based HIE,2025-05-26,0
+John,Vendor,VP-Level Technical Specialist,VP-Level,Technical,United States,Sports,Teams,2025-05-22,2
+Betty,Partner,Manager Technical Specialist,Manager,Technical,United States,Software,Dev Tools,2025-04-03,13
+Elena,Prospect,Manager Technical Specialist,Manager,Technical,United States,Construction,Infrastructure,2025-04-10,13
+Rebecca,Customer,Non-Manager Executive,Non-Manager,Executive,Germany,Telecom,Network Provider,2025-04-07,6
+Anna,Customer,Non-Manager Executive,Non-Manager,Executive,Australia,Pharma,Drug Manufacturer,2025-05-14,8
+Anita,Prospect,Non-Manager Technical Specialist,Non-Manager,Technical,United States,Business Partner,VAR,2025-05-22,2
