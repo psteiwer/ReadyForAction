@@ -11,8 +11,8 @@ ClassMethod LoadData(pFile = "") As %Status
     }
 
     Set tSQL="LOAD DATA FROM FILE '"_pFile_"' "
-            _"INTO SampleTables.READY2025 (FirstName,OrgType,JobTitle,Level_sqlsafe,Role_sqlsafe,Country,Industry,SubIndustry,RegistrationDate,PreviousSummits) "
-            _"VALUES (FirstName,OrgType,JobTitle,""Level"",""Role"",Country,Industry,SubIndustry,RegistrationDate,PreviousSummits)"
+            _"INTO SampleTables.READY2025 (FirstName,Level_sqlsafe,Role_sqlsafe,Country,RegistrationDate,PreviousSummits) "
+            _"VALUES (FirstName,""Level"",""Role"",Country,RegistrationDate,PreviousSummits)"
     Set tRS=##class(%SQL.Statement).%ExecDirect(,tSQL)
     If tRS.%SQLCODE'=0 { Set tSC=tRS.%SQLCODE }
 
@@ -23,21 +23,13 @@ Property Country As %String(MAXLEN = "") [ SqlColumnNumber = 8 ];
 
 Property FirstName As %String(MAXLEN = "") [ SqlColumnNumber = 2 ];
 
-Property Industry As %String(MAXLEN = "") [ SqlColumnNumber = 9 ];
-
-Property JobTitle As %String(COLLATION = "truncate", MAXLEN = 50) [ SqlColumnNumber = 5 ];
-
 Property Level As %String(MAXLEN = "") [ SqlColumnNumber = 6, SqlFieldName = Level_SQLSafe ];
-
-Property OrgType As %String(MAXLEN = "") [ SqlColumnNumber = 4 ];
 
 Property RegistrationDate As %Date [ SqlColumnNumber = 11 ];
 
 Property PreviousSummits As %BigInt [ SqlColumnNumber = 12 ];
 
 Property Role As %String(MAXLEN = "") [ SqlColumnNumber = 7, SqlFieldName = Role_SQLSafe ];
-
-Property SubIndustry As %String(MAXLEN = "") [ SqlColumnNumber = 10 ];
 
 Method RegistrationDateSet(pVal) As %Status
 {
@@ -49,7 +41,7 @@ Method RegistrationDateSet(pVal) As %Status
 
 ClassMethod FetchData(pID) As %DynamicObject
 {
-    &sql(SELECT JSON_OBJECT('FirstName':FirstName, 'OrgType':OrgType, 'JobTitle':JobTitle, 'Level':Level_sqlsafe, 'Role':Role_sqlsafe, 'Country':Country, 'Industry':Industry, 'SubIndustry':SubIndustry, 'RegistrationDate':%ODBCOUT(RegistrationDate), 'PreviousSummits':PreviousSummits) INTO :tJSONData FROM SampleTables.READY2025 WHERE %ID=:pID)
+    &sql(SELECT JSON_OBJECT('FirstName':FirstName, 'Level':Level_sqlsafe, 'Role':Role_sqlsafe, 'Country':Country, 'RegistrationDate':%ODBCOUT(RegistrationDate), 'PreviousSummits':PreviousSummits) INTO :tJSONData FROM SampleTables.READY2025 WHERE %ID=:pID)
     Return tJSONData
 }
 
@@ -72,28 +64,16 @@ Storage Default
 <Value>FirstName</Value>
 </Value>
 <Value name="4">
-<Value>Industry</Value>
-</Value>
-<Value name="5">
-<Value>JobTitle</Value>
-</Value>
-<Value name="6">
 <Value>Level</Value>
 </Value>
-<Value name="7">
-<Value>OrgType</Value>
-</Value>
-<Value name="8">
+<Value name="5">
 <Value>RegistrationDate</Value>
 </Value>
-<Value name="9">
-<Value>Role</Value>
-</Value>
-<Value name="10">
-<Value>SubIndustry</Value>
-</Value>
-<Value name="11">
+<Value name="6">
 <Value>PreviousSummits</Value>
+</Value>
+<Value name="7">
+<Value>Role</Value>
 </Value>
 </Data>
 <DataLocation>^SampleTables.READY2025D</DataLocation>
